@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ player }}</h2>
+<ul>
+    <li>Total Runs: {{ runs }}</li>
+    <li>Balls Faced: {{ balls }}</li>
+    <li>Strike Rate: {{ strike_rate }}</li>
+    <li>Total Wickets: {{ wickets }}</li>
+</ul>
+<a href="/">Back</a>
+{% endblock %}

@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{ player }} vs {{ team }}</h2>
+<ul>
+  <li>Runs: {{ runs }}</li>
+  <li>Balls: {{ balls }}</li>
+  <li>Strike Rate: {{ strike_rate }}</li>
+</ul>
+<a href="/">Back</a>
+{% endblock %}

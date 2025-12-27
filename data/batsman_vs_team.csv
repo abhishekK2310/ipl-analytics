@@ -1,0 +1,1673 @@
+batter,bowling_team,runs,balls,strike_rate
+A Ashish Reddy,Chennai Super Kings,3.0,3,100.0
+A Ashish Reddy,Mumbai Indians,10.0,10,100.0
+A Ashish Reddy,Punjab Kings,8.0,8,100.0
+A Chopra,Delhi Capitals,13.0,18,72.22222222222221
+A Chopra,Mumbai Indians,1.0,4,25.0
+A Chopra,Punjab Kings,2.0,3,66.66666666666666
+A Chopra,Royal Challengers Bangalore,2.0,5,40.0
+A Chopra,Sunrisers Hyderabad,35.0,45,77.77777777777779
+A Flintoff,Delhi Capitals,16.0,18,88.88888888888889
+A Flintoff,Mumbai Indians,24.0,25,96.0
+A Flintoff,Royal Challengers Bangalore,22.0,14,157.14285714285714
+A Kumble,Chennai Super Kings,3.0,6,50.0
+A Kumble,Delhi Capitals,2.0,2,100.0
+A Kumble,Mumbai Indians,9.0,12,75.0
+A Kumble,Punjab Kings,9.0,15,60.0
+A Kumble,Rajasthan Royals,8.0,8,100.0
+A Kumble,Sunrisers Hyderabad,4.0,6,66.66666666666666
+A Mishra,Chennai Super Kings,19.0,16,118.75
+A Mishra,Delhi Capitals,6.0,7,85.71428571428571
+A Mishra,Kochi Tuskers Kerala,0.0,1,0.0
+A Mishra,Kolkata Knight Riders,57.0,55,103.63636363636364
+A Mishra,Mumbai Indians,72.0,60,120.0
+A Mishra,Punjab Kings,18.0,18,100.0
+A Mishra,Rajasthan Royals,8.0,16,50.0
+A Mishra,Rising Pune Supergiant,0.0,1,0.0
+A Mishra,Sunrisers Hyderabad,6.0,15,40.0
+A Mithun,Chennai Super Kings,11.0,8,137.5
+A Mithun,Delhi Capitals,5.0,6,83.33333333333334
+A Mithun,Punjab Kings,16.0,10,160.0
+A Mukund,Rajasthan Royals,0.0,1,0.0
+A Nehra,Chennai Super Kings,1.0,2,50.0
+A Nehra,Punjab Kings,6.0,21,28.57142857142857
+A Nehra,Sunrisers Hyderabad,22.0,16,137.5
+A Singh,Chennai Super Kings,1.0,2,50.0
+A Singh,Delhi Capitals,0.0,1,0.0
+A Singh,Kolkata Knight Riders,1.0,4,25.0
+A Singh,Mumbai Indians,0.0,3,0.0
+A Symonds,Chennai Super Kings,131.0,123,106.5040650406504
+A Symonds,Delhi Capitals,170.0,109,155.96330275229357
+A Symonds,Kolkata Knight Riders,100.0,102,98.0392156862745
+A Symonds,Mumbai Indians,22.0,26,84.61538461538461
+A Symonds,Punjab Kings,154.0,121,127.27272727272727
+A Symonds,Rajasthan Royals,201.0,138,145.65217391304347
+A Symonds,Rising Pune Supergiant,19.0,18,105.55555555555556
+A Symonds,Royal Challengers Bangalore,125.0,92,135.8695652173913
+A Symonds,Sunrisers Hyderabad,52.0,52,100.0
+A Uniyal,Delhi Capitals,4.0,6,66.66666666666666
+A Uniyal,Mumbai Indians,0.0,1,0.0
+AA Bilakhia,Chennai Super Kings,12.0,14,85.71428571428571
+AA Bilakhia,Delhi Capitals,32.0,49,65.3061224489796
+AA Bilakhia,Rajasthan Royals,3.0,9,33.33333333333333
+AA Bilakhia,Royal Challengers Bangalore,22.0,16,137.5
+AA Chavan,Delhi Capitals,7.0,6,116.66666666666667
+AA Chavan,Kochi Tuskers Kerala,1.0,3,33.33333333333333
+AA Chavan,Mumbai Indians,4.0,2,200.0
+AA Jhunjhunwala,Chennai Super Kings,19.0,11,172.72727272727272
+AA Jhunjhunwala,Delhi Capitals,59.0,60,98.33333333333333
+AA Jhunjhunwala,Kolkata Knight Riders,45.0,37,121.62162162162163
+AA Jhunjhunwala,Mumbai Indians,46.0,50,92.0
+AA Jhunjhunwala,Punjab Kings,19.0,23,82.6086956521739
+AA Jhunjhunwala,Royal Challengers Bangalore,18.0,29,62.06896551724138
+AA Jhunjhunwala,Sunrisers Hyderabad,11.0,8,137.5
+AA Noffke,Kolkata Knight Riders,9.0,12,75.0
+AB Agarkar,Chennai Super Kings,20.0,14,142.85714285714286
+AB Agarkar,Delhi Capitals,56.0,42,133.33333333333331
+AB Agarkar,Mumbai Indians,24.0,28,85.71428571428571
+AB Agarkar,Punjab Kings,1.0,2,50.0
+AB Agarkar,Rajasthan Royals,39.0,35,111.42857142857143
+AB Agarkar,Royal Challengers Bangalore,12.0,15,80.0
+AB Agarkar,Sunrisers Hyderabad,15.0,8,187.5
+AB Barath,Delhi Capitals,2.0,5,40.0
+AB Barath,Mumbai Indians,33.0,28,117.85714285714286
+AB Barath,Sunrisers Hyderabad,7.0,10,70.0
+AB Dinda,Mumbai Indians,1.0,7,14.285714285714285
+AB Dinda,Punjab Kings,2.0,5,40.0
+AB Dinda,Rajasthan Royals,1.0,3,33.33333333333333
+AB Dinda,Royal Challengers Bangalore,0.0,1,0.0
+AB Dinda,Sunrisers Hyderabad,2.0,2,100.0
+AB McDonald,Chennai Super Kings,8.0,7,114.28571428571428
+AB McDonald,Delhi Capitals,30.0,19,157.89473684210526
+AB McDonald,Mumbai Indians,33.0,31,106.4516129032258
+AB McDonald,Punjab Kings,17.0,17,100.0
+AB McDonald,Rajasthan Royals,14.0,9,155.55555555555557
+AB McDonald,Royal Challengers Bangalore,21.0,18,116.66666666666667
+AB de Villiers,Chennai Super Kings,231.0,154,150.0
+AB de Villiers,Delhi Capitals,69.0,44,156.8181818181818
+AB de Villiers,Kochi Tuskers Kerala,54.0,41,131.70731707317074
+AB de Villiers,Kolkata Knight Riders,70.0,70,100.0
+AB de Villiers,Mumbai Indians,151.0,133,113.53383458646617
+AB de Villiers,Punjab Kings,148.0,122,121.31147540983606
+AB de Villiers,Rajasthan Royals,229.0,179,127.93296089385476
+AB de Villiers,Rising Pune Supergiant,59.0,34,173.52941176470588
+AB de Villiers,Royal Challengers Bangalore,115.0,112,102.67857142857142
+AB de Villiers,Sunrisers Hyderabad,149.0,116,128.44827586206898
+AC Blizzard,Delhi Capitals,37.0,27,137.03703703703704
+AC Blizzard,Kolkata Knight Riders,51.0,30,170.0
+AC Blizzard,Punjab Kings,15.0,10,150.0
+AC Blizzard,Rising Pune Supergiant,6.0,6,100.0
+AC Blizzard,Royal Challengers Bangalore,10.0,11,90.9090909090909
+AC Blizzard,Sunrisers Hyderabad,1.0,7,14.285714285714285
+AC Gilchrist,Chennai Super Kings,182.0,131,138.93129770992368
+AC Gilchrist,Delhi Capitals,264.0,160,165.0
+AC Gilchrist,Kochi Tuskers Kerala,9.0,17,52.94117647058824
+AC Gilchrist,Kolkata Knight Riders,237.0,196,120.91836734693877
+AC Gilchrist,Mumbai Indians,229.0,167,137.125748502994
+AC Gilchrist,Punjab Kings,141.0,96,146.875
+AC Gilchrist,Rajasthan Royals,213.0,165,129.0909090909091
+AC Gilchrist,Rising Pune Supergiant,31.0,39,79.48717948717949
+AC Gilchrist,Royal Challengers Bangalore,284.0,202,140.59405940594058
+AC Gilchrist,Sunrisers Hyderabad,112.0,87,128.73563218390805
+AC Thomas,Chennai Super Kings,1.0,2,50.0
+AC Thomas,Mumbai Indians,0.0,2,0.0
+AC Thomas,Sunrisers Hyderabad,12.0,9,133.33333333333331
+AC Voges,Chennai Super Kings,20.0,19,105.26315789473684
+AC Voges,Delhi Capitals,15.0,17,88.23529411764706
+AC Voges,Kolkata Knight Riders,45.0,29,155.17241379310346
+AC Voges,Mumbai Indians,28.0,27,103.7037037037037
+AC Voges,Punjab Kings,45.0,24,187.5
+AC Voges,Royal Challengers Bangalore,28.0,27,103.7037037037037
+AD Mascarenhas,Chennai Super Kings,8.0,8,100.0
+AD Mascarenhas,Delhi Capitals,12.0,11,109.09090909090908
+AD Mascarenhas,Kolkata Knight Riders,36.0,39,92.3076923076923
+AD Mascarenhas,Mumbai Indians,9.0,8,112.5
+AD Mascarenhas,Punjab Kings,4.0,2,200.0
+AD Mascarenhas,Rising Pune Supergiant,5.0,5,100.0
+AD Mascarenhas,Royal Challengers Bangalore,0.0,1,0.0
+AD Mathews,Chennai Super Kings,81.0,88,92.04545454545455
+AD Mathews,Delhi Capitals,76.0,50,152.0
+AD Mathews,Kolkata Knight Riders,35.0,28,125.0
+AD Mathews,Mumbai Indians,3.0,3,100.0
+AD Mathews,Punjab Kings,47.0,35,134.28571428571428
+AD Mathews,Rajasthan Royals,11.0,12,91.66666666666666
+AD Mathews,Royal Challengers Bangalore,27.0,23,117.3913043478261
+AD Mathews,Sunrisers Hyderabad,69.0,53,130.18867924528303
+AG Murtaza,Rajasthan Royals,2.0,5,40.0
+AG Paunikar,Delhi Capitals,5.0,8,62.5
+AG Paunikar,Kolkata Knight Riders,24.0,33,72.72727272727273
+AG Paunikar,Royal Challengers Bangalore,0.0,1,0.0
+AG Paunikar,Sunrisers Hyderabad,20.0,19,105.26315789473684
+AJ Finch,Kolkata Knight Riders,51.0,49,104.08163265306123
+AJ Finch,Mumbai Indians,8.0,13,61.53846153846154
+AJ Finch,Punjab Kings,3.0,5,60.0
+AJ Finch,Rajasthan Royals,11.0,16,68.75
+AJ Finch,Rising Pune Supergiant,25.0,14,178.57142857142858
+AJ Finch,Royal Challengers Bangalore,25.0,24,104.16666666666667
+AJ Finch,Sunrisers Hyderabad,0.0,3,0.0
+AL Menaria,Chennai Super Kings,46.0,53,86.79245283018868
+AL Menaria,Delhi Capitals,24.0,19,126.3157894736842
+AL Menaria,Kochi Tuskers Kerala,31.0,30,103.33333333333334
+AL Menaria,Kolkata Knight Riders,89.0,78,114.1025641025641
+AL Menaria,Mumbai Indians,24.0,20,120.0
+AL Menaria,Punjab Kings,68.0,57,119.29824561403508
+AL Menaria,Rising Pune Supergiant,47.0,43,109.30232558139534
+AL Menaria,Royal Challengers Bangalore,8.0,6,133.33333333333331
+AL Menaria,Sunrisers Hyderabad,22.0,20,110.00000000000001
+AM Nayar,Chennai Super Kings,140.0,88,159.0909090909091
+AM Nayar,Delhi Capitals,42.0,54,77.77777777777779
+AM Nayar,Kolkata Knight Riders,13.0,18,72.22222222222221
+AM Nayar,Mumbai Indians,14.0,9,155.55555555555557
+AM Nayar,Punjab Kings,44.0,38,115.78947368421053
+AM Nayar,Rajasthan Royals,92.0,73,126.02739726027397
+AM Nayar,Rising Pune Supergiant,36.0,46,78.26086956521739
+AM Nayar,Royal Challengers Bangalore,83.0,67,123.88059701492537
+AM Nayar,Sunrisers Hyderabad,99.0,71,139.43661971830986
+AM Rahane,Chennai Super Kings,88.0,77,114.28571428571428
+AM Rahane,Delhi Capitals,212.0,170,124.70588235294117
+AM Rahane,Kochi Tuskers Kerala,8.0,9,88.88888888888889
+AM Rahane,Kolkata Knight Riders,39.0,49,79.59183673469387
+AM Rahane,Mumbai Indians,40.0,31,129.03225806451613
+AM Rahane,Punjab Kings,104.0,84,123.80952380952381
+AM Rahane,Rajasthan Royals,3.0,7,42.857142857142854
+AM Rahane,Rising Pune Supergiant,15.0,12,125.0
+AM Rahane,Royal Challengers Bangalore,195.0,142,137.32394366197184
+AM Rahane,Sunrisers Hyderabad,44.0,39,112.82051282051282
+AN Ahmed,Chennai Super Kings,4.0,8,50.0
+AN Ahmed,Royal Challengers Bangalore,18.0,13,138.46153846153845
+AN Ghosh,Mumbai Indians,0.0,1,0.0
+AN Ghosh,Royal Challengers Bangalore,7.0,7,100.0
+AP Dole,Mumbai Indians,30.0,19,157.89473684210526
+AP Dole,Sunrisers Hyderabad,4.0,4,100.0
+AP Majumdar,Rajasthan Royals,30.0,20,150.0
+AP Tare,Delhi Capitals,17.0,10,170.0
+AP Tare,Kolkata Knight Riders,1.0,3,33.33333333333333
+AP Tare,Rajasthan Royals,23.0,16,143.75
+AP Tare,Royal Challengers Bangalore,9.0,12,75.0
+AS Raut,Chennai Super Kings,28.0,23,121.73913043478262
+AS Raut,Delhi Capitals,11.0,13,84.61538461538461
+AS Raut,Kolkata Knight Riders,34.0,36,94.44444444444444
+AS Raut,Mumbai Indians,20.0,17,117.64705882352942
+AS Raut,Punjab Kings,27.0,26,103.84615384615385
+AS Raut,Royal Challengers Bangalore,37.0,29,127.58620689655173
+AS Raut,Sunrisers Hyderabad,37.0,28,132.14285714285714
+AS Yadav,Chennai Super Kings,0.0,1,0.0
+AS Yadav,Delhi Capitals,12.0,7,171.42857142857142
+AS Yadav,Kolkata Knight Riders,10.0,10,100.0
+AS Yadav,Rajasthan Royals,16.0,10,160.0
+AS Yadav,Royal Challengers Bangalore,11.0,12,91.66666666666666
+AT Rayudu,Chennai Super Kings,69.0,69,100.0
+AT Rayudu,Delhi Capitals,197.0,152,129.60526315789474
+AT Rayudu,Kochi Tuskers Kerala,53.0,33,160.6060606060606
+AT Rayudu,Kolkata Knight Riders,56.0,39,143.5897435897436
+AT Rayudu,Punjab Kings,143.0,109,131.1926605504587
+AT Rayudu,Rajasthan Royals,115.0,91,126.37362637362637
+AT Rayudu,Rising Pune Supergiant,66.0,73,90.41095890410958
+AT Rayudu,Royal Challengers Bangalore,174.0,141,123.40425531914893
+AT Rayudu,Sunrisers Hyderabad,108.0,94,114.89361702127661
+AUK Pathan,Chennai Super Kings,14.0,6,233.33333333333334
+AUK Pathan,Kochi Tuskers Kerala,12.0,5,240.0
+AUK Pathan,Mumbai Indians,0.0,2,0.0
+AUK Pathan,Punjab Kings,9.0,9,100.0
+AUK Pathan,Sunrisers Hyderabad,4.0,4,100.0
+Abdur Razzak,Rajasthan Royals,0.0,2,0.0
+Anirudh Singh,Kolkata Knight Riders,14.0,14,100.0
+Anirudh Singh,Punjab Kings,0.0,1,0.0
+Anirudh Singh,Rajasthan Royals,9.0,12,75.0
+Anirudh Singh,Royal Challengers Bangalore,40.0,42,95.23809523809523
+Ankit Sharma,Chennai Super Kings,15.0,8,187.5
+Ankit Sharma,Delhi Capitals,1.0,1,100.0
+Ankit Sharma,Kolkata Knight Riders,1.0,2,50.0
+Ankit Sharma,Mumbai Indians,1.0,2,50.0
+Azhar Mahmood,Chennai Super Kings,18.0,13,138.46153846153845
+Azhar Mahmood,Mumbai Indians,10.0,8,125.0
+Azhar Mahmood,Rajasthan Royals,24.0,25,96.0
+Azhar Mahmood,Royal Challengers Bangalore,35.0,18,194.44444444444443
+Azhar Mahmood,Sunrisers Hyderabad,14.0,9,155.55555555555557
+B Akhil,Chennai Super Kings,8.0,12,66.66666666666666
+B Akhil,Delhi Capitals,24.0,17,141.1764705882353
+B Akhil,Kolkata Knight Riders,0.0,2,0.0
+B Akhil,Mumbai Indians,8.0,10,80.0
+B Akhil,Rajasthan Royals,9.0,9,100.0
+B Akhil,Sunrisers Hyderabad,27.0,7,385.7142857142857
+B Chipli,Chennai Super Kings,35.0,36,97.22222222222221
+B Chipli,Delhi Capitals,33.0,33,100.0
+B Chipli,Kochi Tuskers Kerala,4.0,10,40.0
+B Chipli,Kolkata Knight Riders,60.0,48,125.0
+B Chipli,Mumbai Indians,18.0,29,62.06896551724138
+B Chipli,Punjab Kings,14.0,12,116.66666666666667
+B Chipli,Rajasthan Royals,6.0,9,66.66666666666666
+B Chipli,Rising Pune Supergiant,23.0,18,127.77777777777777
+B Chipli,Royal Challengers Bangalore,61.0,35,174.28571428571428
+B Chipli,Sunrisers Hyderabad,10.0,7,142.85714285714286
+B Kumar,Chennai Super Kings,2.0,5,40.0
+B Kumar,Kolkata Knight Riders,11.0,7,157.14285714285714
+B Kumar,Mumbai Indians,12.0,10,120.0
+B Kumar,Sunrisers Hyderabad,8.0,5,160.0
+B Lee,Chennai Super Kings,6.0,7,85.71428571428571
+B Lee,Delhi Capitals,11.0,9,122.22222222222223
+B Lee,Kochi Tuskers Kerala,2.0,5,40.0
+B Lee,Kolkata Knight Riders,7.0,6,116.66666666666667
+B Lee,Mumbai Indians,29.0,28,103.57142857142858
+B Lee,Rajasthan Royals,25.0,14,178.57142857142858
+B Lee,Royal Challengers Bangalore,9.0,5,180.0
+B Lee,Sunrisers Hyderabad,14.0,16,87.5
+B Sumanth,Chennai Super Kings,16.0,19,84.21052631578947
+B Sumanth,Delhi Capitals,7.0,12,58.333333333333336
+B Sumanth,Punjab Kings,6.0,3,200.0
+B Sumanth,Royal Challengers Bangalore,6.0,4,150.0
+BA Bhatt,Kolkata Knight Riders,6.0,2,300.0
+BA Bhatt,Sunrisers Hyderabad,0.0,5,0.0
+BAW Mendis,Mumbai Indians,0.0,1,0.0
+BAW Mendis,Royal Challengers Bangalore,1.0,1,100.0
+BB McCullum,Chennai Super Kings,187.0,145,128.9655172413793
+BB McCullum,Delhi Capitals,156.0,125,124.8
+BB McCullum,Kolkata Knight Riders,24.0,28,85.71428571428571
+BB McCullum,Mumbai Indians,145.0,140,103.57142857142858
+BB McCullum,Punjab Kings,87.0,99,87.87878787878788
+BB McCullum,Rajasthan Royals,50.0,37,135.13513513513513
+BB McCullum,Rising Pune Supergiant,42.0,45,93.33333333333333
+BB McCullum,Royal Challengers Bangalore,397.0,267,148.68913857677904
+BB McCullum,Sunrisers Hyderabad,36.0,40,90.0
+BB Samantray,Rising Pune Supergiant,2.0,2,100.0
+BJ Haddin,Royal Challengers Bangalore,18.0,11,163.63636363636365
+BJ Hodge,Chennai Super Kings,177.0,140,126.42857142857142
+BJ Hodge,Delhi Capitals,84.0,80,105.0
+BJ Hodge,Kolkata Knight Riders,93.0,67,138.80597014925374
+BJ Hodge,Mumbai Indians,108.0,94,114.89361702127661
+BJ Hodge,Punjab Kings,142.0,106,133.96226415094338
+BJ Hodge,Rajasthan Royals,89.0,85,104.70588235294119
+BJ Hodge,Rising Pune Supergiant,39.0,36,108.33333333333333
+BJ Hodge,Royal Challengers Bangalore,120.0,121,99.17355371900827
+BJ Hodge,Sunrisers Hyderabad,140.0,111,126.12612612612612
+Bipul Sharma,Chennai Super Kings,7.0,5,140.0
+Bipul Sharma,Kolkata Knight Riders,28.0,23,121.73913043478262
+Bipul Sharma,Mumbai Indians,7.0,6,116.66666666666667
+Bipul Sharma,Rajasthan Royals,19.0,14,135.71428571428572
+Bipul Sharma,Rising Pune Supergiant,35.0,18,194.44444444444443
+Bipul Sharma,Sunrisers Hyderabad,8.0,6,133.33333333333331
+C Madan,Delhi Capitals,15.0,21,71.42857142857143
+C Nanda,Rajasthan Royals,0.0,1,0.0
+CA Ingram,Chennai Super Kings,7.0,12,58.333333333333336
+CA Ingram,Mumbai Indians,1.0,2,50.0
+CA Ingram,Rising Pune Supergiant,13.0,12,108.33333333333333
+CA Pujara,Chennai Super Kings,2.0,6,33.33333333333333
+CA Pujara,Delhi Capitals,18.0,25,72.0
+CA Pujara,Kolkata Knight Riders,6.0,9,66.66666666666666
+CA Pujara,Rajasthan Royals,74.0,65,113.84615384615384
+CA Pujara,Royal Challengers Bangalore,21.0,24,87.5
+CA Pujara,Sunrisers Hyderabad,52.0,45,115.55555555555554
+CH Ga,Rising Pune Supergiant,0.0,0,
+CH Gayle,Chennai Super Kings,158.0,110,143.63636363636363
+CH Gayle,Delhi Capitals,96.0,58,165.51724137931035
+CH Gayle,Kochi Tuskers Kerala,44.0,17,258.8235294117647
+CH Gayle,Kolkata Knight Riders,228.0,136,167.64705882352942
+CH Gayle,Mumbai Indians,265.0,193,137.30569948186528
+CH Gayle,Punjab Kings,428.0,264,162.12121212121212
+CH Gayle,Rajasthan Royals,136.0,108,125.92592592592592
+CH Gayle,Rising Pune Supergiant,180.0,101,178.21782178217822
+CH Gayle,Royal Challengers Bangalore,74.0,55,134.54545454545453
+CH Gayle,Sunrisers Hyderabad,40.0,42,95.23809523809523
+CJ Ferguson,Kolkata Knight Riders,16.0,19,84.21052631578947
+CJ Ferguson,Mumbai Indians,12.0,13,92.3076923076923
+CJ Ferguson,Punjab Kings,9.0,21,42.857142857142854
+CJ Ferguson,Sunrisers Hyderabad,26.0,22,118.18181818181819
+CJ McKay,Delhi Capitals,8.0,15,53.333333333333336
+CK Kapugedera,Delhi Capitals,8.0,9,88.88888888888889
+CK Kapugedera,Mumbai Indians,0.0,2,0.0
+CK Kapugedera,Rajasthan Royals,8.0,13,61.53846153846154
+CK Langeveldt,Delhi Capitals,0.0,1,0.0
+CK Langeveldt,Punjab Kings,8.0,8,100.0
+CL White,Chennai Super Kings,134.0,102,131.37254901960785
+CL White,Delhi Capitals,101.0,79,127.84810126582278
+CL White,Kochi Tuskers Kerala,31.0,34,91.17647058823529
+CL White,Kolkata Knight Riders,59.0,48,122.91666666666667
+CL White,Mumbai Indians,57.0,53,107.54716981132076
+CL White,Punjab Kings,39.0,46,84.78260869565217
+CL White,Rajasthan Royals,10.0,17,58.82352941176471
+CL White,Rising Pune Supergiant,152.0,91,167.03296703296704
+CL White,Royal Challengers Bangalore,45.0,25,180.0
+CL White,Sunrisers Hyderabad,48.0,29,165.51724137931035
+CRD Fernando,Chennai Super Kings,2.0,2,100.0
+CRD Fernando,Punjab Kings,2.0,1,200.0
+D Kalyankrishna,Punjab Kings,3.0,8,37.5
+D Salunkhe,Delhi Capitals,26.0,20,130.0
+D Salunkhe,Punjab Kings,6.0,3,200.0
+D Salunkhe,Sunrisers Hyderabad,1.0,1,100.0
+D du Preez,Rajasthan Royals,10.0,13,76.92307692307693
+DA Miller,Chennai Super Kings,19.0,15,126.66666666666666
+DA Miller,Mumbai Indians,39.0,22,177.27272727272728
+DA Miller,Royal Challengers Bangalore,8.0,14,57.14285714285714
+DA Miller,Sunrisers Hyderabad,28.0,18,155.55555555555557
+DA Warner,Chennai Super Kings,78.0,75,104.0
+DA Warner,Kochi Tuskers Kerala,16.0,23,69.56521739130434
+DA Warner,Kolkata Knight Riders,202.0,151,133.7748344370861
+DA Warner,Mumbai Indians,69.0,61,113.11475409836065
+DA Warner,Punjab Kings,112.0,90,124.44444444444444
+DA Warner,Rajasthan Royals,58.0,52,111.53846153846155
+DA Warner,Rising Pune Supergiant,65.0,38,171.05263157894737
+DA Warner,Royal Challengers Bangalore,73.0,49,148.9795918367347
+DA Warner,Sunrisers Hyderabad,226.0,148,152.7027027027027
+DAJ Bracewell,Royal Challengers Bangalore,12.0,9,133.33333333333331
+DB Das,Chennai Super Kings,38.0,36,105.55555555555556
+DB Das,Delhi Capitals,19.0,13,146.15384615384613
+DB Das,Mumbai Indians,29.0,21,138.0952380952381
+DB Das,Punjab Kings,40.0,32,125.0
+DB Das,Rajasthan Royals,54.0,47,114.89361702127661
+DB Das,Rising Pune Supergiant,15.0,19,78.94736842105263
+DB Das,Sunrisers Hyderabad,9.0,8,112.5
+DB Ravi Teja,Chennai Super Kings,40.0,33,121.21212121212122
+DB Ravi Teja,Delhi Capitals,38.0,49,77.55102040816327
+DB Ravi Teja,Kochi Tuskers Kerala,8.0,5,160.0
+DB Ravi Teja,Kolkata Knight Riders,54.0,39,138.46153846153845
+DB Ravi Teja,Mumbai Indians,55.0,46,119.56521739130434
+DB Ravi Teja,Punjab Kings,80.0,64,125.0
+DB Ravi Teja,Rajasthan Royals,41.0,31,132.25806451612902
+DB Ravi Teja,Rising Pune Supergiant,30.0,28,107.14285714285714
+DB Ravi Teja,Royal Challengers Bangalore,15.0,12,125.0
+DE Bollinger,Delhi Capitals,16.0,14,114.28571428571428
+DE Bollinger,Mumbai Indians,3.0,6,50.0
+DE Bollinger,Sunrisers Hyderabad,2.0,3,66.66666666666666
+DH Yagnik,Chennai Super Kings,14.0,15,93.33333333333333
+DH Yagnik,Punjab Kings,10.0,10,100.0
+DH Yagnik,Royal Challengers Bangalore,2.0,5,40.0
+DH Yagnik,Sunrisers Hyderabad,9.0,3,300.0
+DJ Bravo,Chennai Super Kings,47.0,39,120.51282051282051
+DJ Bravo,Delhi Capitals,68.0,72,94.44444444444444
+DJ Bravo,Kolkata Knight Riders,84.0,81,103.7037037037037
+DJ Bravo,Mumbai Indians,59.0,53,111.32075471698113
+DJ Bravo,Punjab Kings,146.0,133,109.77443609022556
+DJ Bravo,Rajasthan Royals,28.0,34,82.35294117647058
+DJ Bravo,Rising Pune Supergiant,17.0,10,170.0
+DJ Bravo,Royal Challengers Bangalore,87.0,63,138.0952380952381
+DJ Bravo,Sunrisers Hyderabad,178.0,116,153.44827586206898
+DJ Harris,Chennai Super Kings,15.0,14,107.14285714285714
+DJ Harris,Delhi Capitals,19.0,17,111.76470588235294
+DJ Harris,Punjab Kings,30.0,30,100.0
+DJ Harris,Royal Challengers Bangalore,47.0,42,111.90476190476191
+DJ Hussey,Chennai Super Kings,10.0,13,76.92307692307693
+DJ Hussey,Delhi Capitals,83.0,79,105.0632911392405
+DJ Hussey,Kochi Tuskers Kerala,21.0,15,140.0
+DJ Hussey,Kolkata Knight Riders,57.0,67,85.07462686567165
+DJ Hussey,Mumbai Indians,129.0,114,113.1578947368421
+DJ Hussey,Punjab Kings,97.0,68,142.64705882352942
+DJ Hussey,Rajasthan Royals,83.0,76,109.21052631578947
+DJ Hussey,Rising Pune Supergiant,22.0,23,95.65217391304348
+DJ Hussey,Royal Challengers Bangalore,167.0,118,141.52542372881356
+DJ Hussey,Sunrisers Hyderabad,185.0,137,135.03649635036496
+DJ Jacobs,Delhi Capitals,1.0,16,6.25
+DJ Jacobs,Kochi Tuskers Kerala,12.0,22,54.54545454545454
+DJ Jacobs,Punjab Kings,10.0,10,100.0
+DJ Jacobs,Rajasthan Royals,15.0,16,93.75
+DJ Jacobs,Royal Challengers Bangalore,22.0,17,129.41176470588235
+DJ Jacobs,Sunrisers Hyderabad,32.0,20,160.0
+DJ Thornely,Delhi Capitals,30.0,24,125.0
+DJ Thornely,Kolkata Knight Riders,1.0,6,16.666666666666664
+DJ Thornely,Royal Challengers Bangalore,0.0,6,0.0
+DJ Thornely,Sunrisers Hyderabad,8.0,18,44.44444444444444
+DL Vettori,Chennai Super Kings,3.0,4,75.0
+DL Vettori,Delhi Capitals,21.0,26,80.76923076923077
+DL Vettori,Kolkata Knight Riders,36.0,24,150.0
+DL Vettori,Punjab Kings,5.0,9,55.55555555555556
+DL Vettori,Rajasthan Royals,30.0,30,100.0
+DL Vettori,Royal Challengers Bangalore,23.0,19,121.05263157894737
+DL Vettori,Sunrisers Hyderabad,3.0,6,50.0
+DNT Zoysa,Mumbai Indians,10.0,7,142.85714285714286
+DNT Zoysa,Punjab Kings,1.0,2,50.0
+DP Nannes,Mumbai Indians,3.0,11,27.27272727272727
+DP Nannes,Sunrisers Hyderabad,1.0,2,50.0
+DP Vijaykumar,Delhi Capitals,1.0,1,100.0
+DPMD Jayawardene,Chennai Super Kings,126.0,89,141.57303370786516
+DPMD Jayawardene,Delhi Capitals,120.0,114,105.26315789473684
+DPMD Jayawardene,Kolkata Knight Riders,340.0,256,132.8125
+DPMD Jayawardene,Mumbai Indians,199.0,157,126.7515923566879
+DPMD Jayawardene,Punjab Kings,76.0,56,135.71428571428572
+DPMD Jayawardene,Rajasthan Royals,110.0,108,101.85185185185186
+DPMD Jayawardene,Rising Pune Supergiant,27.0,25,108.0
+DPMD Jayawardene,Royal Challengers Bangalore,84.0,84,100.0
+DPMD Jayawardene,Sunrisers Hyderabad,219.0,152,144.07894736842107
+DR Martyn,Royal Challengers Bangalore,19.0,26,73.07692307692307
+DR Smith,Chennai Super Kings,98.0,45,217.77777777777777
+DR Smith,Delhi Capitals,66.0,48,137.5
+DR Smith,Mumbai Indians,51.0,35,145.7142857142857
+DR Smith,Punjab Kings,20.0,16,125.0
+DR Smith,Rajasthan Royals,66.0,55,120.0
+DR Smith,Royal Challengers Bangalore,7.0,13,53.84615384615385
+DS Kulkarni,Delhi Capitals,1.0,4,25.0
+DS Kulkarni,Punjab Kings,4.0,21,19.047619047619047
+DS Kulkarni,Rajasthan Royals,1.0,5,20.0
+DS Kulkarni,Sunrisers Hyderabad,7.0,9,77.77777777777779
+DS Lehmann,Delhi Capitals,1.0,2,50.0
+DS Lehmann,Punjab Kings,17.0,17,100.0
+DT Christian,Chennai Super Kings,30.0,28,107.14285714285714
+DT Christian,Delhi Capitals,54.0,56,96.42857142857143
+DT Christian,Kochi Tuskers Kerala,9.0,12,75.0
+DT Christian,Kolkata Knight Riders,26.0,16,162.5
+DT Christian,Mumbai Indians,83.0,84,98.80952380952381
+DT Christian,Punjab Kings,30.0,14,214.28571428571428
+DT Christian,Rajasthan Royals,55.0,38,144.73684210526315
+DT Christian,Rising Pune Supergiant,24.0,23,104.34782608695652
+DT Christian,Royal Challengers Bangalore,0.0,1,0.0
+DT Patil,Punjab Kings,4.0,1,400.0
+DT Patil,Rajasthan Royals,9.0,12,75.0
+DW Steyn,Chennai Super Kings,6.0,13,46.15384615384615
+DW Steyn,Delhi Capitals,10.0,12,83.33333333333334
+DW Steyn,Kolkata Knight Riders,20.0,16,125.0
+DW Steyn,Mumbai Indians,14.0,24,58.333333333333336
+DW Steyn,Punjab Kings,2.0,5,40.0
+DW Steyn,Rajasthan Royals,7.0,6,116.66666666666667
+DW Steyn,Rising Pune Supergiant,11.0,6,183.33333333333331
+DW Steyn,Sunrisers Hyderabad,0.0,1,0.0
+EJG Morgan,Chennai Super Kings,12.0,18,66.66666666666666
+EJG Morgan,Delhi Capitals,17.0,15,113.33333333333333
+EJG Morgan,Kochi Tuskers Kerala,76.0,64,118.75
+EJG Morgan,Kolkata Knight Riders,10.0,7,142.85714285714286
+EJG Morgan,Mumbai Indians,7.0,6,116.66666666666667
+EJG Morgan,Punjab Kings,28.0,15,186.66666666666666
+EJG Morgan,Royal Challengers Bangalore,8.0,11,72.72727272727273
+EJG Morgan,Sunrisers Hyderabad,14.0,18,77.77777777777779
+F du Plessis,Delhi Capitals,15.0,13,115.38461538461537
+F du Plessis,Kolkata Knight Riders,3.0,4,75.0
+F du Plessis,Mumbai Indians,12.0,15,80.0
+F du Plessis,Punjab Kings,29.0,20,145.0
+F du Plessis,Rajasthan Royals,73.0,53,137.73584905660377
+F du Plessis,Rising Pune Supergiant,101.0,82,123.17073170731707
+F du Plessis,Royal Challengers Bangalore,71.0,46,154.34782608695653
+F du Plessis,Sunrisers Hyderabad,81.0,61,132.78688524590163
+FH Edwards,Mumbai Indians,1.0,3,33.33333333333333
+FH Edwards,Royal Challengers Bangalore,3.0,2,150.0
+FY Fazal,Chennai Super Kings,21.0,24,87.5
+FY Fazal,Delhi Capitals,0.0,2,0.0
+FY Fazal,Kochi Tuskers Kerala,16.0,15,106.66666666666667
+FY Fazal,Kolkata Knight Riders,47.0,41,114.6341463414634
+FY Fazal,Mumbai Indians,10.0,16,62.5
+FY Fazal,Punjab Kings,45.0,40,112.5
+FY Fazal,Sunrisers Hyderabad,44.0,41,107.31707317073172
+G Gambhir,Chennai Super Kings,280.0,237,118.14345991561181
+G Gambhir,Delhi Capitals,70.0,56,125.0
+G Gambhir,Kochi Tuskers Kerala,3.0,6,50.0
+G Gambhir,Kolkata Knight Riders,147.0,121,121.48760330578511
+G Gambhir,Mumbai Indians,115.0,105,109.52380952380953
+G Gambhir,Punjab Kings,312.0,244,127.86885245901641
+G Gambhir,Rajasthan Royals,289.0,246,117.47967479674797
+G Gambhir,Rising Pune Supergiant,110.0,89,123.59550561797752
+G Gambhir,Royal Challengers Bangalore,381.0,268,142.1641791044776
+G Gambhir,Sunrisers Hyderabad,225.0,188,119.68085106382979
+GB Hogg,Mumbai Indians,2.0,5,40.0
+GB Hogg,Royal Challengers Bangalore,13.0,11,118.18181818181819
+GC Smith,Chennai Super Kings,158.0,138,114.4927536231884
+GC Smith,Delhi Capitals,123.0,136,90.44117647058823
+GC Smith,Kochi Tuskers Kerala,24.0,27,88.88888888888889
+GC Smith,Kolkata Knight Riders,41.0,52,78.84615384615384
+GC Smith,Mumbai Indians,56.0,62,90.32258064516128
+GC Smith,Punjab Kings,79.0,53,149.0566037735849
+GC Smith,Royal Challengers Bangalore,146.0,129,113.17829457364341
+GC Smith,Sunrisers Hyderabad,112.0,94,119.14893617021276
+GD McGrath,Mumbai Indians,0.0,2,0.0
+GD McGrath,Rajasthan Royals,4.0,3,133.33333333333331
+GJ Bailey,Kolkata Knight Riders,30.0,28,107.14285714285714
+GJ Bailey,Punjab Kings,15.0,12,125.0
+GJ Bailey,Royal Challengers Bangalore,18.0,27,66.66666666666666
+GJ Maxwell,Kolkata Knight Riders,3.0,7,42.857142857142854
+GJ Maxwell,Royal Challengers Bangalore,3.0,4,75.0
+GR Napier,Kolkata Knight Riders,15.0,16,93.75
+Gurkeerat Singh,Rajasthan Royals,23.0,25,92.0
+H Das,Mumbai Indians,2.0,5,40.0
+HH Gibbs,Chennai Super Kings,150.0,145,103.44827586206897
+HH Gibbs,Delhi Capitals,53.0,56,94.64285714285714
+HH Gibbs,Kolkata Knight Riders,145.0,141,102.83687943262412
+HH Gibbs,Mumbai Indians,102.0,83,122.89156626506023
+HH Gibbs,Punjab Kings,113.0,118,95.76271186440678
+HH Gibbs,Rajasthan Royals,52.0,46,113.04347826086956
+HH Gibbs,Royal Challengers Bangalore,190.0,157,121.01910828025477
+HV Patel,Delhi Capitals,0.0,1,0.0
+HV Patel,Kolkata Knight Riders,10.0,11,90.9090909090909
+Harbhajan Singh,Chennai Super Kings,67.0,44,152.27272727272728
+Harbhajan Singh,Delhi Capitals,70.0,50,140.0
+Harbhajan Singh,Kolkata Knight Riders,65.0,52,125.0
+Harbhajan Singh,Punjab Kings,32.0,26,123.07692307692308
+Harbhajan Singh,Rajasthan Royals,44.0,29,151.72413793103448
+Harbhajan Singh,Rising Pune Supergiant,25.0,19,131.57894736842107
+Harbhajan Singh,Royal Challengers Bangalore,39.0,27,144.44444444444443
+Harbhajan Singh,Sunrisers Hyderabad,86.0,41,209.7560975609756
+Harmeet Singh,Chennai Super Kings,0.0,1,0.0
+Harmeet Singh,Kolkata Knight Riders,14.0,6,233.33333333333334
+Harmeet Singh,Rajasthan Royals,1.0,1,100.0
+Harpreet Singh,Rajasthan Royals,13.0,19,68.42105263157895
+Harpreet Singh,Royal Challengers Bangalore,1.0,1,100.0
+I Malhotra,Delhi Capitals,7.0,4,175.0
+I Sharma,Chennai Super Kings,11.0,19,57.89473684210527
+I Sharma,Kolkata Knight Riders,1.0,1,100.0
+I Sharma,Mumbai Indians,11.0,10,110.00000000000001
+I Sharma,Punjab Kings,0.0,1,0.0
+I Sharma,Rajasthan Royals,5.0,4,125.0
+I Sharma,Royal Challengers Bangalore,0.0,2,0.0
+I Sharma,Sunrisers Hyderabad,9.0,9,100.0
+IK Pathan,Chennai Super Kings,187.0,142,131.69014084507043
+IK Pathan,Delhi Capitals,70.0,59,118.64406779661016
+IK Pathan,Kochi Tuskers Kerala,18.0,13,138.46153846153845
+IK Pathan,Kolkata Knight Riders,191.0,134,142.53731343283582
+IK Pathan,Mumbai Indians,78.0,66,118.18181818181819
+IK Pathan,Punjab Kings,3.0,7,42.857142857142854
+IK Pathan,Rajasthan Royals,111.0,106,104.71698113207549
+IK Pathan,Rising Pune Supergiant,29.0,27,107.40740740740742
+IK Pathan,Royal Challengers Bangalore,85.0,61,139.34426229508196
+IK Pathan,Sunrisers Hyderabad,110.0,92,119.56521739130434
+IR Jaggi,Kolkata Knight Riders,6.0,16,37.5
+IR Jaggi,Mumbai Indians,2.0,7,28.57142857142857
+IR Jaggi,Rajasthan Royals,25.0,29,86.20689655172413
+IR Jaggi,Rising Pune Supergiant,10.0,8,125.0
+Iqbal Abdulla,Chennai Super Kings,3.0,4,75.0
+Iqbal Abdulla,Delhi Capitals,2.0,3,66.66666666666666
+Iqbal Abdulla,Kochi Tuskers Kerala,12.0,9,133.33333333333331
+Iqbal Abdulla,Rajasthan Royals,1.0,2,50.0
+J Arunkumar,Kolkata Knight Riders,22.0,18,122.22222222222223
+J Arunkumar,Punjab Kings,1.0,3,33.33333333333333
+J Arunkumar,Rajasthan Royals,0.0,3,0.0
+J Botha,Chennai Super Kings,34.0,45,75.55555555555556
+J Botha,Delhi Capitals,76.0,65,116.92307692307693
+J Botha,Kochi Tuskers Kerala,14.0,7,200.0
+J Botha,Kolkata Knight Riders,26.0,25,104.0
+J Botha,Mumbai Indians,49.0,45,108.88888888888889
+J Botha,Punjab Kings,14.0,8,175.0
+J Botha,Rising Pune Supergiant,12.0,18,66.66666666666666
+J Botha,Royal Challengers Bangalore,19.0,21,90.47619047619048
+J Botha,Sunrisers Hyderabad,81.0,56,144.64285714285714
+J Syed Mohammad,Chennai Super Kings,2.0,3,66.66666666666666
+J Syed Mohammad,Delhi Capitals,13.0,10,130.0
+J Syed Mohammad,Sunrisers Hyderabad,4.0,1,400.0
+J Theron,Chennai Super Kings,0.0,2,0.0
+J Theron,Punjab Kings,7.0,6,116.66666666666667
+J Theron,Rajasthan Royals,2.0,4,50.0
+JA Morkel,Delhi Capitals,80.0,59,135.59322033898303
+JA Morkel,Kochi Tuskers Kerala,22.0,14,157.14285714285714
+JA Morkel,Kolkata Knight Riders,79.0,60,131.66666666666666
+JA Morkel,Mumbai Indians,29.0,30,96.66666666666667
+JA Morkel,Punjab Kings,44.0,38,115.78947368421053
+JA Morkel,Rajasthan Royals,246.0,146,168.49315068493152
+JA Morkel,Rising Pune Supergiant,3.0,8,37.5
+JA Morkel,Royal Challengers Bangalore,127.0,96,132.29166666666669
+JA Morkel,Sunrisers Hyderabad,138.0,95,145.26315789473685
+JD Ryder,Chennai Super Kings,116.0,90,128.88888888888889
+JD Ryder,Delhi Capitals,146.0,87,167.816091954023
+JD Ryder,Kochi Tuskers Kerala,17.0,11,154.54545454545453
+JD Ryder,Kolkata Knight Riders,23.0,26,88.46153846153845
+JD Ryder,Mumbai Indians,21.0,30,70.0
+JD Ryder,Punjab Kings,95.0,82,115.85365853658536
+JD Ryder,Rajasthan Royals,18.0,14,128.57142857142858
+JD Ryder,Royal Challengers Bangalore,85.0,56,151.78571428571428
+JD Ryder,Sunrisers Hyderabad,60.0,42,142.85714285714286
+JDP Oram,Delhi Capitals,3.0,7,42.857142857142854
+JDP Oram,Kochi Tuskers Kerala,0.0,3,0.0
+JDP Oram,Mumbai Indians,13.0,8,162.5
+JDP Oram,Punjab Kings,30.0,33,90.9090909090909
+JDP Oram,Rajasthan Royals,3.0,8,37.5
+JDP Oram,Royal Challengers Bangalore,16.0,22,72.72727272727273
+JDP Oram,Sunrisers Hyderabad,41.0,29,141.3793103448276
+JE Taylor,Chennai Super Kings,3.0,4,75.0
+JEC Franklin,Chennai Super Kings,26.0,40,65.0
+JEC Franklin,Kolkata Knight Riders,74.0,50,148.0
+JEC Franklin,Punjab Kings,101.0,74,136.48648648648648
+JEC Franklin,Rajasthan Royals,13.0,8,162.5
+JEC Franklin,Rising Pune Supergiant,63.0,75,84.0
+JEC Franklin,Royal Challengers Bangalore,17.0,23,73.91304347826086
+JEC Franklin,Sunrisers Hyderabad,20.0,26,76.92307692307693
+JH Kallis,Chennai Super Kings,224.0,215,104.18604651162791
+JH Kallis,Delhi Capitals,263.0,243,108.23045267489712
+JH Kallis,Kochi Tuskers Kerala,51.0,51,100.0
+JH Kallis,Kolkata Knight Riders,136.0,135,100.74074074074073
+JH Kallis,Mumbai Indians,263.0,226,116.3716814159292
+JH Kallis,Punjab Kings,219.0,174,125.86206896551724
+JH Kallis,Rajasthan Royals,201.0,215,93.48837209302326
+JH Kallis,Rising Pune Supergiant,1.0,4,25.0
+JH Kallis,Royal Challengers Bangalore,120.0,109,110.09174311926606
+JH Kallis,Sunrisers Hyderabad,292.0,290,100.6896551724138
+JJ van der Wath,Chennai Super Kings,14.0,11,127.27272727272727
+JJ van der Wath,Punjab Kings,4.0,5,80.0
+JJ van der Wath,Sunrisers Hyderabad,0.0,1,0.0
+JM Kemp,Delhi Capitals,4.0,9,44.44444444444444
+JM Kemp,Sunrisers Hyderabad,22.0,16,137.5
+JP Duminy,Chennai Super Kings,94.0,79,118.9873417721519
+JP Duminy,Delhi Capitals,102.0,71,143.66197183098592
+JP Duminy,Kolkata Knight Riders,111.0,102,108.8235294117647
+JP Duminy,Mumbai Indians,33.0,36,91.66666666666666
+JP Duminy,Punjab Kings,124.0,120,103.33333333333334
+JP Duminy,Rajasthan Royals,107.0,83,128.91566265060243
+JP Duminy,Rising Pune Supergiant,83.0,84,98.80952380952381
+JP Duminy,Royal Challengers Bangalore,127.0,86,147.67441860465115
+JP Duminy,Sunrisers Hyderabad,99.0,92,107.6086956521739
+JP Faulkner,Rajasthan Royals,11.0,9,122.22222222222223
+JP Faulkner,Rising Pune Supergiant,3.0,5,60.0
+JR Hopes,Chennai Super Kings,95.0,52,182.69230769230768
+JR Hopes,Delhi Capitals,4.0,7,57.14285714285714
+JR Hopes,Kolkata Knight Riders,56.0,54,103.7037037037037
+JR Hopes,Mumbai Indians,55.0,46,119.56521739130434
+JR Hopes,Punjab Kings,7.0,7,100.0
+JR Hopes,Rajasthan Royals,67.0,51,131.37254901960785
+JR Hopes,Rising Pune Supergiant,13.0,4,325.0
+JR Hopes,Royal Challengers Bangalore,86.0,69,124.63768115942028
+JR Hopes,Sunrisers Hyderabad,34.0,24,141.66666666666669
+Jaskaran Singh,Kolkata Knight Riders,4.0,4,100.0
+Jaskaran Singh,Mumbai Indians,1.0,4,25.0
+Jaskaran Singh,Punjab Kings,3.0,3,100.0
+Joginder Sharma,Delhi Capitals,4.0,3,133.33333333333331
+Joginder Sharma,Mumbai Indians,16.0,16,100.0
+Joginder Sharma,Rajasthan Royals,0.0,1,0.0
+Joginder Sharma,Sunrisers Hyderabad,16.0,10,160.0
+K Goel,Chennai Super Kings,39.0,48,81.25
+K Goel,Delhi Capitals,39.0,25,156.0
+K Goel,Kolkata Knight Riders,23.0,31,74.19354838709677
+K Goel,Mumbai Indians,51.0,60,85.0
+K Goel,Rajasthan Royals,27.0,25,108.0
+K Goel,Royal Challengers Bangalore,39.0,50,78.0
+KA Pollard,Chennai Super Kings,52.0,27,192.59259259259258
+KA Pollard,Delhi Capitals,81.0,43,188.37209302325581
+KA Pollard,Kolkata Knight Riders,28.0,35,80.0
+KA Pollard,Punjab Kings,85.0,70,121.42857142857142
+KA Pollard,Rajasthan Royals,113.0,81,139.50617283950618
+KA Pollard,Rising Pune Supergiant,36.0,34,105.88235294117648
+KA Pollard,Royal Challengers Bangalore,98.0,61,160.65573770491804
+KA Pollard,Sunrisers Hyderabad,70.0,48,145.83333333333331
+KAJ Roach,Mumbai Indians,10.0,9,111.11111111111111
+KB Arun Karthik,Kolkata Knight Riders,1.0,2,50.0
+KB Arun Karthik,Punjab Kings,6.0,6,100.0
+KB Arun Karthik,Rajasthan Royals,3.0,5,60.0
+KC Sangakkara,Chennai Super Kings,128.0,105,121.90476190476191
+KC Sangakkara,Delhi Capitals,203.0,187,108.55614973262031
+KC Sangakkara,Kochi Tuskers Kerala,65.0,48,135.41666666666669
+KC Sangakkara,Kolkata Knight Riders,214.0,178,120.2247191011236
+KC Sangakkara,Mumbai Indians,278.0,243,114.40329218106994
+KC Sangakkara,Punjab Kings,39.0,34,114.70588235294117
+KC Sangakkara,Rajasthan Royals,173.0,137,126.27737226277371
+KC Sangakkara,Rising Pune Supergiant,131.0,101,129.7029702970297
+KC Sangakkara,Royal Challengers Bangalore,134.0,96,139.58333333333331
+KC Sangakkara,Sunrisers Hyderabad,186.0,131,141.98473282442748
+KD Karthik,Chennai Super Kings,140.0,98,142.85714285714286
+KD Karthik,Delhi Capitals,76.0,59,128.81355932203388
+KD Karthik,Kochi Tuskers Kerala,69.0,33,209.0909090909091
+KD Karthik,Kolkata Knight Riders,79.0,82,96.34146341463415
+KD Karthik,Mumbai Indians,148.0,106,139.62264150943395
+KD Karthik,Punjab Kings,131.0,123,106.5040650406504
+KD Karthik,Rajasthan Royals,163.0,127,128.3464566929134
+KD Karthik,Rising Pune Supergiant,80.0,90,88.88888888888889
+KD Karthik,Royal Challengers Bangalore,138.0,126,109.52380952380953
+KD Karthik,Sunrisers Hyderabad,164.0,126,130.15873015873015
+KK Cooper,Kolkata Knight Riders,5.0,5,100.0
+KK Cooper,Mumbai Indians,14.0,6,233.33333333333334
+KK Cooper,Punjab Kings,11.0,3,366.66666666666663
+KK Cooper,Royal Challengers Bangalore,8.0,6,133.33333333333331
+KM Jadhav,Chennai Super Kings,1.0,1,100.0
+KM Jadhav,Kolkata Knight Riders,21.0,20,105.0
+KM Jadhav,Rajasthan Royals,15.0,18,83.33333333333334
+KM Jadhav,Royal Challengers Bangalore,57.0,42,135.71428571428572
+KM Jadhav,Sunrisers Hyderabad,0.0,2,0.0
+KMDN Kulasekara,Punjab Kings,5.0,3,166.66666666666669
+KP Appanna,Delhi Capitals,1.0,2,50.0
+KP Appanna,Punjab Kings,0.0,1,0.0
+KP Appanna,Sunrisers Hyderabad,1.0,1,100.0
+KP Pietersen,Chennai Super Kings,66.0,41,160.97560975609758
+KP Pietersen,Delhi Capitals,53.0,45,117.77777777777779
+KP Pietersen,Kolkata Knight Riders,13.0,13,100.0
+KP Pietersen,Mumbai Indians,99.0,66,150.0
+KP Pietersen,Punjab Kings,66.0,47,140.4255319148936
+KP Pietersen,Rajasthan Royals,135.0,98,137.75510204081633
+KP Pietersen,Rising Pune Supergiant,59.0,44,134.0909090909091
+KP Pietersen,Sunrisers Hyderabad,143.0,104,137.5
+KV Sharma,Sunrisers Hyderabad,1.0,3,33.33333333333333
+Kamran Akmal,Chennai Super Kings,59.0,35,168.57142857142858
+Kamran Akmal,Mumbai Indians,18.0,16,112.5
+Kamran Akmal,Punjab Kings,39.0,18,216.66666666666666
+Kamran Akmal,Sunrisers Hyderabad,12.0,9,133.33333333333331
+Kamran Khan,Royal Challengers Bangalore,3.0,5,60.0
+L Ablish,Royal Challengers Bangalore,0.0,2,0.0
+L Balaji,Delhi Capitals,8.0,12,66.66666666666666
+L Balaji,Kochi Tuskers Kerala,1.0,1,100.0
+L Balaji,Punjab Kings,2.0,6,33.33333333333333
+L Balaji,Royal Challengers Bangalore,0.0,8,0.0
+L Balaji,Sunrisers Hyderabad,15.0,10,150.0
+L Ronchi,Chennai Super Kings,2.0,4,50.0
+L Ronchi,Delhi Capitals,0.0,3,0.0
+L Ronchi,Punjab Kings,11.0,9,122.22222222222223
+L Ronchi,Royal Challengers Bangalore,8.0,10,80.0
+L Ronchi,Sunrisers Hyderabad,13.0,11,118.18181818181819
+LA Carseldine,Chennai Super Kings,9.0,8,112.5
+LA Carseldine,Punjab Kings,16.0,9,177.77777777777777
+LA Carseldine,Royal Challengers Bangalore,9.0,8,112.5
+LA Carseldine,Sunrisers Hyderabad,47.0,46,102.17391304347827
+LA Pomersbach,Chennai Super Kings,57.0,53,107.54716981132076
+LA Pomersbach,Delhi Capitals,34.0,20,170.0
+LA Pomersbach,Kolkata Knight Riders,16.0,15,106.66666666666667
+LA Pomersbach,Mumbai Indians,88.0,64,137.5
+LA Pomersbach,Rajasthan Royals,1.0,1,100.0
+LA Pomersbach,Royal Challengers Bangalore,34.0,24,141.66666666666669
+LA Pomersbach,Sunrisers Hyderabad,14.0,14,100.0
+LPC Silva,Mumbai Indians,17.0,15,113.33333333333333
+LPC Silva,Punjab Kings,23.0,10,229.99999999999997
+LPC Silva,Royal Challengers Bangalore,0.0,2,0.0
+LR Shukla,Chennai Super Kings,105.0,84,125.0
+LR Shukla,Delhi Capitals,36.0,25,144.0
+LR Shukla,Mumbai Indians,52.0,45,115.55555555555554
+LR Shukla,Punjab Kings,12.0,14,85.71428571428571
+LR Shukla,Rajasthan Royals,86.0,80,107.5
+LR Shukla,Rising Pune Supergiant,0.0,1,0.0
+LR Shukla,Royal Challengers Bangalore,18.0,20,90.0
+LR Shukla,Sunrisers Hyderabad,26.0,15,173.33333333333334
+LRPL Taylor,Chennai Super Kings,143.0,125,114.39999999999999
+LRPL Taylor,Delhi Capitals,125.0,83,150.60240963855424
+LRPL Taylor,Kochi Tuskers Kerala,2.0,1,200.0
+LRPL Taylor,Kolkata Knight Riders,152.0,103,147.5728155339806
+LRPL Taylor,Mumbai Indians,118.0,110,107.27272727272728
+LRPL Taylor,Punjab Kings,35.0,28,125.0
+LRPL Taylor,Rajasthan Royals,85.0,74,114.86486486486487
+LRPL Taylor,Rising Pune Supergiant,68.0,64,106.25
+LRPL Taylor,Royal Challengers Bangalore,13.0,13,100.0
+LRPL Taylor,Sunrisers Hyderabad,64.0,56,114.28571428571428
+M Kaif,Chennai Super Kings,36.0,33,109.09090909090908
+M Kaif,Delhi Capitals,28.0,42,66.66666666666666
+M Kaif,Kolkata Knight Riders,70.0,66,106.06060606060606
+M Kaif,Mumbai Indians,16.0,23,69.56521739130434
+M Kaif,Punjab Kings,24.0,28,85.71428571428571
+M Kaif,Rajasthan Royals,22.0,24,91.66666666666666
+M Kaif,Rising Pune Supergiant,8.0,5,160.0
+M Kaif,Royal Challengers Bangalore,4.0,6,66.66666666666666
+M Kaif,Sunrisers Hyderabad,51.0,31,164.51612903225808
+M Kartik,Chennai Super Kings,29.0,28,103.57142857142858
+M Kartik,Delhi Capitals,12.0,12,100.0
+M Kartik,Mumbai Indians,35.0,34,102.94117647058823
+M Kartik,Royal Challengers Bangalore,17.0,13,130.76923076923077
+M Kartik,Sunrisers Hyderabad,10.0,10,100.0
+M Klinger,Delhi Capitals,20.0,27,74.07407407407408
+M Klinger,Kolkata Knight Riders,29.0,26,111.53846153846155
+M Klinger,Royal Challengers Bangalore,24.0,25,96.0
+M Manhas,Chennai Super Kings,77.0,88,87.5
+M Manhas,Delhi Capitals,20.0,20,100.0
+M Manhas,Kochi Tuskers Kerala,12.0,19,63.1578947368421
+M Manhas,Kolkata Knight Riders,1.0,3,33.33333333333333
+M Manhas,Mumbai Indians,43.0,40,107.5
+M Manhas,Punjab Kings,149.0,142,104.92957746478872
+M Manhas,Rajasthan Royals,69.0,55,125.45454545454547
+M Manhas,Royal Challengers Bangalore,32.0,24,133.33333333333331
+M Manhas,Sunrisers Hyderabad,63.0,52,121.15384615384615
+M Morkel,Kolkata Knight Riders,6.0,5,120.0
+M Morkel,Mumbai Indians,10.0,11,90.9090909090909
+M Morkel,Punjab Kings,16.0,6,266.66666666666663
+M Morkel,Rising Pune Supergiant,1.0,1,100.0
+M Morkel,Royal Challengers Bangalore,4.0,12,33.33333333333333
+M Morkel,Sunrisers Hyderabad,23.0,19,121.05263157894737
+M Muralitharan,Delhi Capitals,3.0,5,60.0
+M Muralitharan,Punjab Kings,1.0,1,100.0
+M Muralitharan,Rajasthan Royals,11.0,19,57.89473684210527
+M Muralitharan,Royal Challengers Bangalore,4.0,2,200.0
+M Muralitharan,Sunrisers Hyderabad,1.0,2,50.0
+M Ntini,Rajasthan Royals,11.0,13,84.61538461538461
+M Ntini,Royal Challengers Bangalore,0.0,6,0.0
+M Rawat,Chennai Super Kings,8.0,7,114.28571428571428
+M Rawat,Delhi Capitals,9.0,12,75.0
+M Rawat,Kolkata Knight Riders,1.0,1,100.0
+M Rawat,Mumbai Indians,1.0,5,20.0
+M Rawat,Punjab Kings,27.0,25,108.0
+M Rawat,Royal Challengers Bangalore,4.0,9,44.44444444444444
+M Vijay,Delhi Capitals,80.0,65,123.07692307692308
+M Vijay,Kochi Tuskers Kerala,44.0,30,146.66666666666666
+M Vijay,Kolkata Knight Riders,92.0,88,104.54545454545455
+M Vijay,Mumbai Indians,103.0,98,105.10204081632652
+M Vijay,Punjab Kings,87.0,59,147.45762711864407
+M Vijay,Rajasthan Royals,237.0,152,155.92105263157893
+M Vijay,Rising Pune Supergiant,70.0,73,95.8904109589041
+M Vijay,Royal Challengers Bangalore,234.0,158,148.1012658227848
+M Vijay,Sunrisers Hyderabad,91.0,95,95.78947368421052
+MA Agarwal,Chennai Super Kings,96.0,82,117.07317073170731
+MA Agarwal,Delhi Capitals,16.0,15,106.66666666666667
+MA Agarwal,Kochi Tuskers Kerala,33.0,27,122.22222222222223
+MA Agarwal,Kolkata Knight Riders,15.0,19,78.94736842105263
+MA Agarwal,Mumbai Indians,41.0,35,117.14285714285715
+MA Agarwal,Punjab Kings,8.0,12,66.66666666666666
+MA Agarwal,Rajasthan Royals,49.0,38,128.94736842105263
+MA Agarwal,Rising Pune Supergiant,9.0,11,81.81818181818183
+MA Agarwal,Sunrisers Hyderabad,34.0,20,170.0
+MA Khote,Chennai Super Kings,9.0,5,180.0
+MA Khote,Punjab Kings,8.0,7,114.28571428571428
+MA Khote,Sunrisers Hyderabad,7.0,10,70.0
+MC Henriques,Delhi Capitals,32.0,32,100.0
+MC Henriques,Sunrisers Hyderabad,17.0,13,130.76923076923077
+MD Mishra,Chennai Super Kings,34.0,42,80.95238095238095
+MD Mishra,Delhi Capitals,33.0,34,97.05882352941177
+MD Mishra,Kochi Tuskers Kerala,37.0,21,176.19047619047618
+MD Mishra,Kolkata Knight Riders,29.0,16,181.25
+MD Mishra,Mumbai Indians,30.0,30,100.0
+MD Mishra,Punjab Kings,20.0,23,86.95652173913044
+MD Mishra,Royal Challengers Bangalore,50.0,43,116.27906976744187
+MEK Hussey,Delhi Capitals,20.0,22,90.9090909090909
+MEK Hussey,Kochi Tuskers Kerala,40.0,47,85.1063829787234
+MEK Hussey,Kolkata Knight Riders,33.0,46,71.73913043478261
+MEK Hussey,Mumbai Indians,60.0,58,103.44827586206897
+MEK Hussey,Punjab Kings,116.0,54,214.81481481481484
+MEK Hussey,Rajasthan Royals,144.0,121,119.00826446280992
+MEK Hussey,Rising Pune Supergiant,70.0,69,101.44927536231884
+MEK Hussey,Royal Challengers Bangalore,197.0,151,130.46357615894038
+MEK Hussey,Sunrisers Hyderabad,54.0,52,103.84615384615385
+MF Maharoof,Kolkata Knight Riders,12.0,15,80.0
+MF Maharoof,Mumbai Indians,48.0,31,154.83870967741936
+MF Maharoof,Punjab Kings,22.0,24,91.66666666666666
+MF Maharoof,Rajasthan Royals,45.0,22,204.54545454545453
+MF Maharoof,Royal Challengers Bangalore,31.0,21,147.61904761904762
+MF Maharoof,Sunrisers Hyderabad,19.0,11,172.72727272727272
+MJ Clarke,Kolkata Knight Riders,1.0,2,50.0
+MJ Clarke,Mumbai Indians,14.0,15,93.33333333333333
+MJ Clarke,Rajasthan Royals,16.0,18,88.88888888888889
+MJ Clarke,Sunrisers Hyderabad,41.0,31,132.25806451612902
+MJ Lumb,Chennai Super Kings,67.0,43,155.8139534883721
+MJ Lumb,Delhi Capitals,0.0,2,0.0
+MJ Lumb,Kolkata Knight Riders,0.0,1,0.0
+MJ Lumb,Mumbai Indians,8.0,8,100.0
+MJ Lumb,Punjab Kings,124.0,75,165.33333333333334
+MJ Lumb,Royal Challengers Bangalore,19.0,26,73.07692307692307
+MJ Lumb,Sunrisers Hyderabad,60.0,43,139.53488372093022
+MK Pandey,Chennai Super Kings,108.0,100,108.0
+MK Pandey,Delhi Capitals,119.0,85,140.0
+MK Pandey,Kolkata Knight Riders,35.0,42,83.33333333333334
+MK Pandey,Mumbai Indians,120.0,109,110.09174311926606
+MK Pandey,Punjab Kings,107.0,92,116.30434782608697
+MK Pandey,Rajasthan Royals,89.0,80,111.25
+MK Pandey,Royal Challengers Bangalore,19.0,24,79.16666666666666
+MK Pandey,Sunrisers Hyderabad,212.0,177,119.77401129943503
+MK Tiwary,Chennai Super Kings,104.0,92,113.04347826086956
+MK Tiwary,Delhi Capitals,95.0,79,120.25316455696202
+MK Tiwary,Kochi Tuskers Kerala,47.0,59,79.66101694915254
+MK Tiwary,Kolkata Knight Riders,9.0,7,128.57142857142858
+MK Tiwary,Mumbai Indians,75.0,58,129.31034482758622
+MK Tiwary,Punjab Kings,203.0,188,107.97872340425532
+MK Tiwary,Rajasthan Royals,124.0,110,112.72727272727272
+MK Tiwary,Rising Pune Supergiant,30.0,28,107.14285714285714
+MK Tiwary,Royal Challengers Bangalore,83.0,73,113.69863013698631
+MK Tiwary,Sunrisers Hyderabad,102.0,89,114.6067415730337
+ML Hayden,Delhi Capitals,181.0,99,182.82828282828282
+ML Hayden,Kolkata Knight Riders,71.0,60,118.33333333333333
+ML Hayden,Mumbai Indians,257.0,222,115.76576576576576
+ML Hayden,Punjab Kings,152.0,109,139.44954128440367
+ML Hayden,Rajasthan Royals,102.0,83,122.89156626506023
+ML Hayden,Royal Challengers Bangalore,208.0,162,128.39506172839506
+ML Hayden,Sunrisers Hyderabad,136.0,104,130.76923076923077
+MM Patel,Chennai Super Kings,0.0,1,0.0
+MM Patel,Delhi Capitals,24.0,15,160.0
+MM Patel,Kolkata Knight Riders,9.0,9,100.0
+MM Patel,Mumbai Indians,0.0,1,0.0
+MM Patel,Punjab Kings,0.0,1,0.0
+MM Patel,Rising Pune Supergiant,1.0,2,50.0
+MM Patel,Royal Challengers Bangalore,0.0,4,0.0
+MM Patel,Sunrisers Hyderabad,5.0,7,71.42857142857143
+MN Samuels,Chennai Super Kings,34.0,39,87.17948717948718
+MN Samuels,Mumbai Indians,4.0,4,100.0
+MN Samuels,Punjab Kings,48.0,52,92.3076923076923
+MN Samuels,Royal Challengers Bangalore,34.0,20,170.0
+MN Samuels,Sunrisers Hyderabad,4.0,9,44.44444444444444
+MN van Wyk,Delhi Capitals,74.0,51,145.09803921568627
+MN van Wyk,Mumbai Indians,32.0,37,86.48648648648648
+MN van Wyk,Punjab Kings,18.0,12,150.0
+MN van Wyk,Royal Challengers Bangalore,43.0,35,122.85714285714286
+MR Marsh,Chennai Super Kings,11.0,16,68.75
+MR Marsh,Delhi Capitals,13.0,19,68.42105263157895
+MR Marsh,Punjab Kings,17.0,18,94.44444444444444
+MR Marsh,Sunrisers Hyderabad,37.0,28,132.14285714285714
+MS Bisla,Chennai Super Kings,34.0,38,89.47368421052632
+MS Bisla,Delhi Capitals,2.0,6,33.33333333333333
+MS Bisla,Kochi Tuskers Kerala,16.0,14,114.28571428571428
+MS Bisla,Kolkata Knight Riders,40.0,41,97.5609756097561
+MS Bisla,Mumbai Indians,11.0,10,110.00000000000001
+MS Bisla,Punjab Kings,38.0,42,90.47619047619048
+MS Bisla,Rajasthan Royals,94.0,92,102.17391304347827
+MS Bisla,Royal Challengers Bangalore,149.0,111,134.23423423423424
+MS Bisla,Sunrisers Hyderabad,29.0,42,69.04761904761905
+MS Dhoni,Delhi Capitals,150.0,127,118.11023622047243
+MS Dhoni,Kochi Tuskers Kerala,23.0,19,121.05263157894737
+MS Dhoni,Kolkata Knight Riders,212.0,141,150.354609929078
+MS Dhoni,Mumbai Indians,217.0,163,133.12883435582822
+MS Dhoni,Punjab Kings,218.0,129,168.9922480620155
+MS Dhoni,Rajasthan Royals,151.0,121,124.79338842975207
+MS Dhoni,Rising Pune Supergiant,80.0,61,131.14754098360655
+MS Dhoni,Royal Challengers Bangalore,329.0,238,138.23529411764704
+MS Dhoni,Sunrisers Hyderabad,281.0,258,108.91472868217053
+MS Gony,Chennai Super Kings,4.0,8,50.0
+MS Gony,Delhi Capitals,19.0,8,237.5
+MS Gony,Kochi Tuskers Kerala,0.0,1,0.0
+MS Gony,Punjab Kings,9.0,13,69.23076923076923
+MS Gony,Rajasthan Royals,3.0,8,37.5
+MS Gony,Royal Challengers Bangalore,4.0,5,80.0
+MS Gony,Sunrisers Hyderabad,15.0,6,250.0
+MS Wade,Rising Pune Supergiant,14.0,24,58.333333333333336
+MS Wade,Royal Challengers Bangalore,8.0,9,88.88888888888889
+MV Boucher,Chennai Super Kings,37.0,33,112.12121212121211
+MV Boucher,Delhi Capitals,79.0,58,136.20689655172413
+MV Boucher,Kochi Tuskers Kerala,5.0,4,125.0
+MV Boucher,Kolkata Knight Riders,95.0,74,128.3783783783784
+MV Boucher,Mumbai Indians,105.0,72,145.83333333333331
+MV Boucher,Punjab Kings,41.0,37,110.8108108108108
+MV Boucher,Rajasthan Royals,10.0,18,55.55555555555556
+MV Boucher,Royal Challengers Bangalore,1.0,2,50.0
+MV Boucher,Sunrisers Hyderabad,21.0,20,105.0
+Mandeep Singh,Chennai Super Kings,56.0,53,105.66037735849056
+Mandeep Singh,Delhi Capitals,11.0,11,100.0
+Mandeep Singh,Kochi Tuskers Kerala,15.0,11,136.36363636363635
+Mandeep Singh,Kolkata Knight Riders,44.0,44,100.0
+Mandeep Singh,Mumbai Indians,54.0,42,128.57142857142858
+Mandeep Singh,Punjab Kings,4.0,7,57.14285714285714
+Mandeep Singh,Rajasthan Royals,41.0,31,132.25806451612902
+Mandeep Singh,Rising Pune Supergiant,40.0,45,88.88888888888889
+Mandeep Singh,Royal Challengers Bangalore,63.0,46,136.95652173913044
+Mandeep Singh,Sunrisers Hyderabad,82.0,58,141.3793103448276
+Mashrafe Mortaza,Sunrisers Hyderabad,2.0,2,100.0
+Misbah-ul-Haq,Chennai Super Kings,4.0,6,66.66666666666666
+Misbah-ul-Haq,Delhi Capitals,47.0,25,188.0
+Misbah-ul-Haq,Mumbai Indians,0.0,1,0.0
+Misbah-ul-Haq,Punjab Kings,29.0,16,181.25
+Misbah-ul-Haq,Rajasthan Royals,0.0,1,0.0
+Misbah-ul-Haq,Sunrisers Hyderabad,37.0,33,112.12121212121211
+Mohammad Ashraful,Delhi Capitals,2.0,12,16.666666666666664
+Mohammad Asif,Mumbai Indians,0.0,1,0.0
+Mohammad Asif,Rajasthan Royals,3.0,5,60.0
+Mohammad Hafeez,Chennai Super Kings,22.0,30,73.33333333333333
+Mohammad Hafeez,Mumbai Indians,7.0,18,38.88888888888889
+Mohammad Hafeez,Punjab Kings,13.0,12,108.33333333333333
+Mohammad Hafeez,Rajasthan Royals,4.0,8,50.0
+Mohammad Hafeez,Royal Challengers Bangalore,5.0,3,166.66666666666669
+Mohammad Hafeez,Sunrisers Hyderabad,13.0,13,100.0
+N Saini,Chennai Super Kings,6.0,4,150.0
+N Saini,Mumbai Indians,47.0,47,100.0
+N Saini,Rajasthan Royals,2.0,10,20.0
+N Saini,Royal Challengers Bangalore,64.0,48,133.33333333333331
+N Saini,Sunrisers Hyderabad,2.0,4,50.0
+ND Doshi,Kochi Tuskers Kerala,0.0,13,0.0
+NJ Rimmington,Rising Pune Supergiant,1.0,1,100.0
+NK Patel,Chennai Super Kings,2.0,11,18.181818181818183
+NK Patel,Delhi Capitals,4.0,2,200.0
+NK Patel,Kolkata Knight Riders,14.0,22,63.63636363636363
+NK Patel,Mumbai Indians,40.0,30,133.33333333333331
+NK Patel,Punjab Kings,57.0,40,142.5
+NK Patel,Royal Challengers Bangalore,4.0,19,21.052631578947366
+NL McCullum,Chennai Super Kings,15.0,16,93.75
+NL McCullum,Rajasthan Royals,11.0,7,157.14285714285714
+NLTC Perera,Punjab Kings,4.0,8,50.0
+NLTC Perera,Rajasthan Royals,1.0,4,25.0
+NLTC Perera,Rising Pune Supergiant,0.0,4,0.0
+NLTC Perera,Sunrisers Hyderabad,22.0,25,88.0
+NV Ojha,Chennai Super Kings,213.0,135,157.77777777777777
+NV Ojha,Delhi Capitals,60.0,45,133.33333333333331
+NV Ojha,Kochi Tuskers Kerala,13.0,18,72.22222222222221
+NV Ojha,Kolkata Knight Riders,70.0,63,111.11111111111111
+NV Ojha,Mumbai Indians,61.0,81,75.30864197530865
+NV Ojha,Punjab Kings,172.0,138,124.63768115942028
+NV Ojha,Rajasthan Royals,22.0,16,137.5
+NV Ojha,Rising Pune Supergiant,30.0,36,83.33333333333334
+NV Ojha,Royal Challengers Bangalore,124.0,106,116.98113207547169
+NV Ojha,Sunrisers Hyderabad,105.0,108,97.22222222222221
+OA Shah,Chennai Super Kings,60.0,52,115.38461538461537
+OA Shah,Delhi Capitals,2.0,4,50.0
+OA Shah,Kolkata Knight Riders,54.0,47,114.89361702127661
+OA Shah,Mumbai Indians,107.0,66,162.12121212121212
+OA Shah,Punjab Kings,37.0,22,168.1818181818182
+OA Shah,Rajasthan Royals,19.0,18,105.55555555555556
+OA Shah,Rising Pune Supergiant,4.0,7,57.14285714285714
+OA Shah,Royal Challengers Bangalore,72.0,47,153.19148936170214
+OA Shah,Sunrisers Hyderabad,70.0,58,120.6896551724138
+P Dogra,Chennai Super Kings,5.0,3,166.66666666666669
+P Dogra,Delhi Capitals,49.0,52,94.23076923076923
+P Dogra,Kolkata Knight Riders,20.0,33,60.60606060606061
+P Dogra,Mumbai Indians,41.0,30,136.66666666666666
+P Dogra,Punjab Kings,1.0,1,100.0
+P Dogra,Royal Challengers Bangalore,6.0,14,42.857142857142854
+P Kumar,Chennai Super Kings,45.0,31,145.16129032258064
+P Kumar,Delhi Capitals,8.0,11,72.72727272727273
+P Kumar,Kolkata Knight Riders,27.0,27,100.0
+P Kumar,Mumbai Indians,13.0,18,72.22222222222221
+P Kumar,Punjab Kings,27.0,23,117.3913043478261
+P Kumar,Rajasthan Royals,66.0,60,110.00000000000001
+P Kumar,Rising Pune Supergiant,7.0,13,53.84615384615385
+P Kumar,Royal Challengers Bangalore,15.0,8,187.5
+P Kumar,Sunrisers Hyderabad,24.0,20,120.0
+P Negi,Rising Pune Supergiant,8.0,8,100.0
+P Parameswaran,Royal Challengers Bangalore,1.0,1,100.0
+PA Patel,Chennai Super Kings,61.0,56,108.92857142857142
+PA Patel,Delhi Capitals,126.0,109,115.59633027522935
+PA Patel,Kolkata Knight Riders,118.0,129,91.47286821705426
+PA Patel,Mumbai Indians,42.0,51,82.35294117647058
+PA Patel,Punjab Kings,172.0,160,107.5
+PA Patel,Rajasthan Royals,148.0,136,108.8235294117647
+PA Patel,Rising Pune Supergiant,45.0,38,118.42105263157893
+PA Patel,Royal Challengers Bangalore,132.0,122,108.19672131147541
+PA Patel,Sunrisers Hyderabad,24.0,40,60.0
+PA Reddy,Punjab Kings,24.0,14,171.42857142857142
+PC Valthaty,Chennai Super Kings,120.0,64,187.5
+PC Valthaty,Delhi Capitals,77.0,69,111.59420289855073
+PC Valthaty,Kochi Tuskers Kerala,17.0,10,170.0
+PC Valthaty,Kolkata Knight Riders,20.0,24,83.33333333333334
+PC Valthaty,Mumbai Indians,47.0,54,87.03703703703704
+PC Valthaty,Rajasthan Royals,59.0,47,125.53191489361701
+PC Valthaty,Rising Pune Supergiant,30.0,34,88.23529411764706
+PC Valthaty,Royal Challengers Bangalore,47.0,48,97.91666666666666
+PC Valthaty,Sunrisers Hyderabad,80.0,55,145.45454545454547
+PD Collingwood,Kolkata Knight Riders,55.0,48,114.58333333333333
+PD Collingwood,Mumbai Indians,2.0,5,40.0
+PD Collingwood,Punjab Kings,4.0,8,50.0
+PD Collingwood,Rajasthan Royals,16.0,8,200.0
+PD Collingwood,Royal Challengers Bangalore,75.0,47,159.5744680851064
+PD Collingwood,Sunrisers Hyderabad,51.0,43,118.6046511627907
+PJ Sangwan,Chennai Super Kings,0.0,3,0.0
+PJ Sangwan,Kolkata Knight Riders,0.0,1,0.0
+PJ Sangwan,Mumbai Indians,12.0,19,63.1578947368421
+PJ Sangwan,Punjab Kings,5.0,5,100.0
+PJ Sangwan,Rajasthan Royals,1.0,1,100.0
+PJ Sangwan,Sunrisers Hyderabad,0.0,1,0.0
+PM Sarvesh Kumar,Delhi Capitals,1.0,2,50.0
+PP Chawla,Chennai Super Kings,41.0,42,97.61904761904762
+PP Chawla,Delhi Capitals,6.0,8,75.0
+PP Chawla,Kolkata Knight Riders,46.0,33,139.3939393939394
+PP Chawla,Mumbai Indians,32.0,28,114.28571428571428
+PP Chawla,Rajasthan Royals,73.0,64,114.0625
+PP Chawla,Rising Pune Supergiant,52.0,60,86.66666666666667
+PP Chawla,Royal Challengers Bangalore,21.0,15,140.0
+PP Chawla,Sunrisers Hyderabad,47.0,37,127.02702702702702
+PP Ojha,Chennai Super Kings,2.0,7,28.57142857142857
+PP Ojha,Delhi Capitals,4.0,16,25.0
+PP Ojha,Mumbai Indians,2.0,4,50.0
+PP Ojha,Rajasthan Royals,1.0,2,50.0
+PP Ojha,Rising Pune Supergiant,1.0,2,50.0
+PP Ojha,Royal Challengers Bangalore,0.0,2,0.0
+PR Shah,Delhi Capitals,23.0,35,65.71428571428571
+PR Shah,Kochi Tuskers Kerala,5.0,5,100.0
+PR Shah,Punjab Kings,5.0,5,100.0
+PR Shah,Royal Challengers Bangalore,19.0,23,82.6086956521739
+PR Shah,Sunrisers Hyderabad,40.0,29,137.93103448275863
+Pankaj Singh,Delhi Capitals,1.0,1,100.0
+Pankaj Singh,Mumbai Indians,1.0,2,50.0
+Pankaj Singh,Punjab Kings,1.0,6,16.666666666666664
+Pankaj Singh,Sunrisers Hyderabad,4.0,3,133.33333333333331
+R Ashwin,Delhi Capitals,14.0,18,77.77777777777779
+R Ashwin,Mumbai Indians,3.0,8,37.5
+R Ashwin,Punjab Kings,17.0,23,73.91304347826086
+R Ashwin,Royal Challengers Bangalore,13.0,14,92.85714285714286
+R Ashwin,Sunrisers Hyderabad,11.0,12,91.66666666666666
+R Bhatia,Chennai Super Kings,23.0,17,135.29411764705884
+R Bhatia,Delhi Capitals,7.0,9,77.77777777777779
+R Bhatia,Kochi Tuskers Kerala,11.0,10,110.00000000000001
+R Bhatia,Kolkata Knight Riders,2.0,3,66.66666666666666
+R Bhatia,Mumbai Indians,24.0,24,100.0
+R Bhatia,Punjab Kings,21.0,23,91.30434782608695
+R Bhatia,Rajasthan Royals,8.0,8,100.0
+R Bhatia,Rising Pune Supergiant,1.0,3,33.33333333333333
+R Bhatia,Royal Challengers Bangalore,12.0,6,200.0
+R Bhatia,Sunrisers Hyderabad,4.0,3,133.33333333333331
+R Bishnoi,Chennai Super Kings,0.0,1,0.0
+R Bishnoi,Punjab Kings,18.0,14,128.57142857142858
+R Bishnoi,Sunrisers Hyderabad,1.0,2,50.0
+R Dravid,Chennai Super Kings,249.0,224,111.16071428571428
+R Dravid,Delhi Capitals,235.0,201,116.91542288557213
+R Dravid,Kochi Tuskers Kerala,45.0,42,107.14285714285714
+R Dravid,Kolkata Knight Riders,181.0,165,109.69696969696969
+R Dravid,Mumbai Indians,143.0,149,95.9731543624161
+R Dravid,Punjab Kings,187.0,160,116.875
+R Dravid,Rajasthan Royals,146.0,94,155.3191489361702
+R Dravid,Rising Pune Supergiant,32.0,36,88.88888888888889
+R Dravid,Royal Challengers Bangalore,120.0,107,112.14953271028037
+R Dravid,Sunrisers Hyderabad,300.0,244,122.95081967213115
+R McLaren,Chennai Super Kings,2.0,4,50.0
+R McLaren,Kolkata Knight Riders,0.0,2,0.0
+R McLaren,Punjab Kings,0.0,1,0.0
+R McLaren,Rajasthan Royals,13.0,13,100.0
+R McLaren,Rising Pune Supergiant,51.0,46,110.86956521739131
+R McLaren,Royal Challengers Bangalore,68.0,76,89.47368421052632
+R McLaren,Sunrisers Hyderabad,22.0,30,73.33333333333333
+R Ninan,Sunrisers Hyderabad,3.0,6,50.0
+R Sathish,Chennai Super Kings,9.0,21,42.857142857142854
+R Sathish,Kolkata Knight Riders,32.0,22,145.45454545454547
+R Sathish,Punjab Kings,37.0,27,137.03703703703704
+R Sathish,Rajasthan Royals,14.0,14,100.0
+R Sathish,Royal Challengers Bangalore,42.0,44,95.45454545454545
+R Sathish,Sunrisers Hyderabad,3.0,5,60.0
+R Sharma,Chennai Super Kings,1.0,1,100.0
+R Sharma,Delhi Capitals,14.0,8,175.0
+R Sharma,Kochi Tuskers Kerala,10.0,11,90.9090909090909
+R Sharma,Mumbai Indians,18.0,17,105.88235294117648
+R Sharma,Punjab Kings,2.0,6,33.33333333333333
+R Sharma,Rajasthan Royals,10.0,6,166.66666666666669
+R Sharma,Royal Challengers Bangalore,0.0,6,0.0
+R Vinay Kumar,Chennai Super Kings,17.0,10,170.0
+R Vinay Kumar,Delhi Capitals,34.0,31,109.6774193548387
+R Vinay Kumar,Kolkata Knight Riders,36.0,40,90.0
+R Vinay Kumar,Mumbai Indians,48.0,55,87.27272727272727
+R Vinay Kumar,Punjab Kings,3.0,6,50.0
+R Vinay Kumar,Rajasthan Royals,37.0,29,127.58620689655173
+R Vinay Kumar,Rising Pune Supergiant,1.0,1,100.0
+R Vinay Kumar,Royal Challengers Bangalore,3.0,4,75.0
+R Vinay Kumar,Sunrisers Hyderabad,30.0,35,85.71428571428571
+RA Jadeja,Chennai Super Kings,99.0,74,133.7837837837838
+RA Jadeja,Delhi Capitals,126.0,108,116.66666666666667
+RA Jadeja,Kolkata Knight Riders,115.0,110,104.54545454545455
+RA Jadeja,Mumbai Indians,102.0,79,129.1139240506329
+RA Jadeja,Punjab Kings,140.0,113,123.8938053097345
+RA Jadeja,Rajasthan Royals,38.0,36,105.55555555555556
+RA Jadeja,Rising Pune Supergiant,98.0,64,153.125
+RA Jadeja,Royal Challengers Bangalore,62.0,55,112.72727272727272
+RA Jadeja,Sunrisers Hyderabad,107.0,114,93.85964912280701
+RE Levi,Chennai Super Kings,50.0,36,138.88888888888889
+RE Levi,Delhi Capitals,1.0,4,25.0
+RE Levi,Rajasthan Royals,29.0,22,131.8181818181818
+RE Levi,Rising Pune Supergiant,0.0,2,0.0
+RE Levi,Sunrisers Hyderabad,3.0,10,30.0
+RE van der Merwe,Chennai Super Kings,5.0,12,41.66666666666667
+RE van der Merwe,Kochi Tuskers Kerala,4.0,7,57.14285714285714
+RE van der Merwe,Kolkata Knight Riders,10.0,11,90.9090909090909
+RE van der Merwe,Mumbai Indians,11.0,11,100.0
+RE van der Merwe,Punjab Kings,35.0,19,184.21052631578948
+RE van der Merwe,Rajasthan Royals,17.0,20,85.0
+RE van der Merwe,Sunrisers Hyderabad,55.0,39,141.02564102564102
+RG Sharma,Chennai Super Kings,238.0,189,125.92592592592592
+RG Sharma,Delhi Capitals,302.0,230,131.30434782608694
+RG Sharma,Kolkata Knight Riders,126.0,100,126.0
+RG Sharma,Mumbai Indians,103.0,95,108.42105263157895
+RG Sharma,Punjab Kings,321.0,205,156.58536585365854
+RG Sharma,Rajasthan Royals,302.0,251,120.3187250996016
+RG Sharma,Rising Pune Supergiant,36.0,49,73.46938775510205
+RG Sharma,Royal Challengers Bangalore,232.0,202,114.85148514851484
+RG Sharma,Sunrisers Hyderabad,175.0,140,125.0
+RJ Harris,Chennai Super Kings,16.0,12,133.33333333333331
+RJ Harris,Delhi Capitals,3.0,3,100.0
+RJ Harris,Mumbai Indians,25.0,20,125.0
+RJ Harris,Punjab Kings,2.0,2,100.0
+RJ Harris,Rajasthan Royals,4.0,7,57.14285714285714
+RJ Harris,Rising Pune Supergiant,4.0,4,100.0
+RJ Harris,Royal Challengers Bangalore,46.0,52,88.46153846153845
+RJ Harris,Sunrisers Hyderabad,0.0,1,0.0
+RJ Peterson,Chennai Super Kings,0.0,3,0.0
+RJ Peterson,Delhi Capitals,2.0,2,100.0
+RJ Peterson,Punjab Kings,16.0,7,228.57142857142856
+RJ Peterson,Rising Pune Supergiant,13.0,14,92.85714285714286
+RJ Peterson,Sunrisers Hyderabad,1.0,6,16.666666666666664
+RJ Quiney,Chennai Super Kings,28.0,32,87.5
+RJ Quiney,Delhi Capitals,10.0,21,47.61904761904761
+RJ Quiney,Kolkata Knight Riders,7.0,4,175.0
+RJ Quiney,Mumbai Indians,51.0,40,127.49999999999999
+RJ Quiney,Punjab Kings,7.0,8,87.5
+RN ten Doeschate,Delhi Capitals,19.0,13,146.15384615384613
+RN ten Doeschate,Mumbai Indians,88.0,63,139.68253968253967
+RN ten Doeschate,Punjab Kings,11.0,14,78.57142857142857
+RN ten Doeschate,Rajasthan Royals,7.0,3,233.33333333333334
+RN ten Doeschate,Royal Challengers Bangalore,3.0,4,75.0
+RP Singh,Chennai Super Kings,13.0,14,92.85714285714286
+RP Singh,Delhi Capitals,6.0,14,42.857142857142854
+RP Singh,Kolkata Knight Riders,7.0,6,116.66666666666667
+RP Singh,Mumbai Indians,8.0,12,66.66666666666666
+RP Singh,Punjab Kings,6.0,6,100.0
+RP Singh,Rajasthan Royals,7.0,15,46.666666666666664
+RP Singh,Rising Pune Supergiant,0.0,1,0.0
+RP Singh,Royal Challengers Bangalore,1.0,3,33.33333333333333
+RP Singh,Sunrisers Hyderabad,0.0,1,0.0
+RR Bhatkal,Chennai Super Kings,0.0,2,0.0
+RR Powar,Chennai Super Kings,37.0,27,137.03703703703704
+RR Powar,Delhi Capitals,3.0,8,37.5
+RR Powar,Kolkata Knight Riders,3.0,6,50.0
+RR Powar,Mumbai Indians,10.0,10,100.0
+RR Powar,Rajasthan Royals,6.0,7,85.71428571428571
+RR Powar,Royal Challengers Bangalore,8.0,6,133.33333333333331
+RR Raje,Delhi Capitals,7.0,7,100.0
+RR Raje,Rajasthan Royals,1.0,2,50.0
+RR Raje,Sunrisers Hyderabad,12.0,9,133.33333333333331
+RR Sarwan,Chennai Super Kings,20.0,22,90.9090909090909
+RR Sarwan,Mumbai Indians,7.0,9,77.77777777777779
+RR Sarwan,Royal Challengers Bangalore,31.0,32,96.875
+RR Sarwan,Sunrisers Hyderabad,15.0,15,100.0
+RS Bopara,Chennai Super Kings,1.0,8,12.5
+RS Bopara,Delhi Capitals,78.0,69,113.04347826086956
+RS Bopara,Kolkata Knight Riders,15.0,17,88.23529411764706
+RS Bopara,Mumbai Indians,7.0,18,38.88888888888889
+RS Bopara,Rajasthan Royals,44.0,54,81.48148148148148
+RS Bopara,Royal Challengers Bangalore,203.0,148,137.16216216216216
+RS Bopara,Sunrisers Hyderabad,38.0,33,115.15151515151516
+RS Gavaskar,Chennai Super Kings,2.0,8,25.0
+RS Sodhi,Mumbai Indians,4.0,2,200.0
+RT Ponting,Chennai Super Kings,0.0,1,0.0
+RT Ponting,Mumbai Indians,19.0,31,61.29032258064516
+RT Ponting,Royal Challengers Bangalore,20.0,20,100.0
+RT Ponting,Sunrisers Hyderabad,0.0,1,0.0
+RV Gomez,Kolkata Knight Riders,11.0,11,100.0
+RV Gomez,Punjab Kings,2.0,3,66.66666666666666
+RV Gomez,Rajasthan Royals,0.0,1,0.0
+RV Gomez,Rising Pune Supergiant,26.0,19,136.8421052631579
+RV Gomez,Royal Challengers Bangalore,7.0,17,41.17647058823529
+RV Gomez,Sunrisers Hyderabad,0.0,1,0.0
+RV Uthappa,Chennai Super Kings,223.0,174,128.16091954022988
+RV Uthappa,Delhi Capitals,173.0,154,112.33766233766234
+RV Uthappa,Kochi Tuskers Kerala,31.0,15,206.66666666666669
+RV Uthappa,Kolkata Knight Riders,152.0,133,114.28571428571428
+RV Uthappa,Mumbai Indians,256.0,201,127.363184079602
+RV Uthappa,Punjab Kings,223.0,164,135.97560975609758
+RV Uthappa,Rajasthan Royals,131.0,127,103.14960629921259
+RV Uthappa,Royal Challengers Bangalore,159.0,120,132.5
+RV Uthappa,Sunrisers Hyderabad,138.0,138,100.0
+S Anirudha,Kolkata Knight Riders,64.0,56,114.28571428571428
+S Anirudha,Mumbai Indians,15.0,16,93.75
+S Anirudha,Punjab Kings,0.0,1,0.0
+S Anirudha,Rajasthan Royals,18.0,8,225.0
+S Anirudha,Rising Pune Supergiant,7.0,7,100.0
+S Anirudha,Sunrisers Hyderabad,28.0,25,112.00000000000001
+S Aravind,Punjab Kings,11.0,5,220.00000000000003
+S Aravind,Rajasthan Royals,14.0,8,175.0
+S Aravind,Sunrisers Hyderabad,2.0,5,40.0
+S Badrinath,Delhi Capitals,185.0,159,116.35220125786164
+S Badrinath,Kochi Tuskers Kerala,32.0,27,118.5185185185185
+S Badrinath,Kolkata Knight Riders,97.0,74,131.08108108108107
+S Badrinath,Mumbai Indians,258.0,210,122.85714285714286
+S Badrinath,Punjab Kings,245.0,190,128.94736842105263
+S Badrinath,Rajasthan Royals,154.0,139,110.79136690647482
+S Badrinath,Rising Pune Supergiant,131.0,101,129.7029702970297
+S Badrinath,Royal Challengers Bangalore,81.0,83,97.59036144578313
+S Badrinath,Sunrisers Hyderabad,87.0,98,88.77551020408163
+S Chanderpaul,Kolkata Knight Riders,7.0,12,58.333333333333336
+S Chanderpaul,Mumbai Indians,16.0,12,133.33333333333331
+S Chanderpaul,Rajasthan Royals,2.0,9,22.22222222222222
+S Dhawan,Chennai Super Kings,248.0,229,108.29694323144106
+S Dhawan,Delhi Capitals,165.0,103,160.19417475728156
+S Dhawan,Kochi Tuskers Kerala,4.0,9,44.44444444444444
+S Dhawan,Kolkata Knight Riders,163.0,157,103.82165605095541
+S Dhawan,Mumbai Indians,150.0,129,116.27906976744187
+S Dhawan,Punjab Kings,211.0,160,131.875
+S Dhawan,Rajasthan Royals,136.0,118,115.2542372881356
+S Dhawan,Rising Pune Supergiant,81.0,71,114.08450704225352
+S Dhawan,Royal Challengers Bangalore,162.0,119,136.1344537815126
+S Dhawan,Sunrisers Hyderabad,118.0,121,97.52066115702479
+S Ladda,Mumbai Indians,0.0,9,0.0
+S Ladda,Sunrisers Hyderabad,0.0,1,0.0
+S Nadeem,Kolkata Knight Riders,0.0,2,0.0
+S Nadeem,Mumbai Indians,0.0,1,0.0
+S Narwal,Chennai Super Kings,2.0,2,100.0
+S Narwal,Delhi Capitals,12.0,10,120.0
+S Narwal,Royal Challengers Bangalore,0.0,1,0.0
+S Rana,Kolkata Knight Riders,18.0,16,112.5
+S Randiv,Mumbai Indians,2.0,4,50.0
+S Sohal,Chennai Super Kings,61.0,45,135.55555555555557
+S Sohal,Delhi Capitals,65.0,53,122.64150943396226
+S Sohal,Kochi Tuskers Kerala,1.0,5,20.0
+S Sohal,Kolkata Knight Riders,51.0,38,134.21052631578948
+S Sohal,Mumbai Indians,68.0,55,123.63636363636363
+S Sohal,Punjab Kings,7.0,5,140.0
+S Sohal,Rajasthan Royals,4.0,5,80.0
+S Sohal,Rising Pune Supergiant,34.0,33,103.03030303030303
+S Sohal,Royal Challengers Bangalore,38.0,39,97.43589743589743
+S Sohal,Sunrisers Hyderabad,39.0,33,118.18181818181819
+S Sreesanth,Chennai Super Kings,0.0,2,0.0
+S Sreesanth,Delhi Capitals,15.0,17,88.23529411764706
+S Sreesanth,Mumbai Indians,1.0,12,8.333333333333332
+S Sreesanth,Rajasthan Royals,4.0,10,40.0
+S Sreesanth,Rising Pune Supergiant,1.0,6,16.666666666666664
+S Sreesanth,Sunrisers Hyderabad,12.0,6,200.0
+S Sriram,Kolkata Knight Riders,27.0,31,87.09677419354838
+S Sriram,Punjab Kings,4.0,7,57.14285714285714
+S Tyagi,Sunrisers Hyderabad,3.0,4,75.0
+S Vidyut,Delhi Capitals,94.0,63,149.20634920634922
+S Vidyut,Mumbai Indians,16.0,11,145.45454545454547
+S Vidyut,Punjab Kings,14.0,13,107.6923076923077
+S Vidyut,Rajasthan Royals,21.0,25,84.0
+S Vidyut,Royal Challengers Bangalore,0.0,3,0.0
+SA Asnodkar,Chennai Super Kings,137.0,112,122.32142857142858
+SA Asnodkar,Delhi Capitals,55.0,33,166.66666666666669
+SA Asnodkar,Kolkata Knight Riders,69.0,44,156.8181818181818
+SA Asnodkar,Mumbai Indians,56.0,58,96.55172413793103
+SA Asnodkar,Punjab Kings,12.0,14,85.71428571428571
+SA Asnodkar,Royal Challengers Bangalore,50.0,49,102.04081632653062
+SA Asnodkar,Sunrisers Hyderabad,44.0,42,104.76190476190477
+SA Yadav,Rising Pune Supergiant,0.0,4,0.0
+SB Bangar,Delhi Capitals,8.0,14,57.14285714285714
+SB Bangar,Kolkata Knight Riders,16.0,14,114.28571428571428
+SB Bangar,Punjab Kings,3.0,8,37.5
+SB Bangar,Rajasthan Royals,5.0,15,33.33333333333333
+SB Bangar,Royal Challengers Bangalore,17.0,7,242.85714285714283
+SB Jakati,Delhi Capitals,14.0,11,127.27272727272727
+SB Jakati,Mumbai Indians,6.0,10,60.0
+SB Jakati,Royal Challengers Bangalore,7.0,7,100.0
+SB Joshi,Kolkata Knight Riders,3.0,8,37.5
+SB Joshi,Rajasthan Royals,3.0,8,37.5
+SB Styris,Chennai Super Kings,56.0,62,90.32258064516128
+SB Styris,Delhi Capitals,29.0,28,103.57142857142858
+SB Styris,Kolkata Knight Riders,16.0,20,80.0
+SB Styris,Punjab Kings,1.0,2,50.0
+SB Styris,Rajasthan Royals,13.0,11,118.18181818181819
+SB Styris,Royal Challengers Bangalore,16.0,11,145.45454545454547
+SB Wagh,Mumbai Indians,2.0,3,66.66666666666666
+SC Ganguly,Chennai Super Kings,79.0,120,65.83333333333333
+SC Ganguly,Delhi Capitals,154.0,160,96.25
+SC Ganguly,Kolkata Knight Riders,54.0,60,90.0
+SC Ganguly,Mumbai Indians,145.0,157,92.35668789808918
+SC Ganguly,Punjab Kings,235.0,183,128.4153005464481
+SC Ganguly,Rajasthan Royals,251.0,214,117.28971962616824
+SC Ganguly,Royal Challengers Bangalore,97.0,113,85.84070796460178
+SC Ganguly,Sunrisers Hyderabad,327.0,307,106.51465798045604
+SD Chitnis,Delhi Capitals,3.0,4,75.0
+SD Chitnis,Mumbai Indians,6.0,9,66.66666666666666
+SD Chitnis,Punjab Kings,15.0,6,250.0
+SD Chitnis,Rising Pune Supergiant,9.0,9,100.0
+SD Chitnis,Sunrisers Hyderabad,6.0,5,120.0
+SE Bond,Chennai Super Kings,1.0,2,50.0
+SE Marsh,Chennai Super Kings,213.0,152,140.13157894736844
+SE Marsh,Delhi Capitals,143.0,80,178.75
+SE Marsh,Kochi Tuskers Kerala,42.0,32,131.25
+SE Marsh,Kolkata Knight Riders,119.0,108,110.18518518518519
+SE Marsh,Mumbai Indians,327.0,256,127.734375
+SE Marsh,Rajasthan Royals,227.0,150,151.33333333333334
+SE Marsh,Rising Pune Supergiant,97.0,86,112.79069767441861
+SE Marsh,Royal Challengers Bangalore,232.0,182,127.47252747252746
+SE Marsh,Sunrisers Hyderabad,179.0,138,129.71014492753622
+SJ Srivastava,Mumbai Indians,4.0,3,133.33333333333331
+SJ Srivastava,Rajasthan Royals,0.0,1,0.0
+SJ Srivastava,Rising Pune Supergiant,1.0,1,100.0
+SK Raina,Delhi Capitals,172.0,139,123.74100719424462
+SK Raina,Kochi Tuskers Kerala,69.0,54,127.77777777777777
+SK Raina,Kolkata Knight Riders,229.0,172,133.13953488372093
+SK Raina,Mumbai Indians,322.0,233,138.19742489270385
+SK Raina,Punjab Kings,249.0,173,143.9306358381503
+SK Raina,Rajasthan Royals,406.0,295,137.6271186440678
+SK Raina,Rising Pune Supergiant,56.0,50,112.00000000000001
+SK Raina,Royal Challengers Bangalore,296.0,235,125.95744680851064
+SK Raina,Sunrisers Hyderabad,310.0,229,135.37117903930132
+SK Trivedi,Chennai Super Kings,2.0,3,66.66666666666666
+SK Trivedi,Delhi Capitals,17.0,25,68.0
+SK Trivedi,Kolkata Knight Riders,4.0,4,100.0
+SK Trivedi,Mumbai Indians,6.0,9,66.66666666666666
+SK Trivedi,Royal Challengers Bangalore,0.0,1,0.0
+SK Trivedi,Sunrisers Hyderabad,10.0,12,83.33333333333334
+SK Warne,Chennai Super Kings,33.0,31,106.4516129032258
+SK Warne,Delhi Capitals,31.0,33,93.93939393939394
+SK Warne,Kochi Tuskers Kerala,2.0,9,22.22222222222222
+SK Warne,Kolkata Knight Riders,34.0,52,65.38461538461539
+SK Warne,Mumbai Indians,8.0,9,88.88888888888889
+SK Warne,Punjab Kings,39.0,38,102.63157894736842
+SK Warne,Royal Challengers Bangalore,7.0,16,43.75
+SK Warne,Sunrisers Hyderabad,44.0,31,141.93548387096774
+SL Malinga,Chennai Super Kings,1.0,2,50.0
+SL Malinga,Delhi Capitals,11.0,14,78.57142857142857
+SL Malinga,Rajasthan Royals,1.0,5,20.0
+SL Malinga,Rising Pune Supergiant,19.0,17,111.76470588235294
+SL Malinga,Royal Challengers Bangalore,7.0,5,140.0
+SM Harwood,Chennai Super Kings,6.0,7,85.71428571428571
+SM Harwood,Sunrisers Hyderabad,3.0,7,42.857142857142854
+SM Katich,Chennai Super Kings,79.0,55,143.63636363636363
+SM Katich,Delhi Capitals,95.0,65,146.15384615384613
+SM Katich,Kolkata Knight Riders,34.0,29,117.24137931034481
+SM Katich,Mumbai Indians,0.0,2,0.0
+SM Katich,Rajasthan Royals,10.0,13,76.92307692307693
+SM Katich,Royal Challengers Bangalore,3.0,5,60.0
+SM Katich,Sunrisers Hyderabad,20.0,22,90.9090909090909
+SM Pollock,Chennai Super Kings,17.0,18,94.44444444444444
+SM Pollock,Delhi Capitals,49.0,32,153.125
+SM Pollock,Punjab Kings,22.0,22,100.0
+SM Pollock,Rajasthan Royals,0.0,1,0.0
+SM Pollock,Royal Challengers Bangalore,28.0,12,233.33333333333334
+SM Pollock,Sunrisers Hyderabad,31.0,31,100.0
+SP Fleming,Delhi Capitals,57.0,44,129.54545454545453
+SP Fleming,Kolkata Knight Riders,32.0,21,152.38095238095238
+SP Fleming,Mumbai Indians,26.0,29,89.65517241379311
+SP Fleming,Punjab Kings,1.0,4,25.0
+SP Fleming,Rajasthan Royals,7.0,6,116.66666666666667
+SP Fleming,Royal Challengers Bangalore,45.0,40,112.5
+SP Fleming,Sunrisers Hyderabad,28.0,27,103.7037037037037
+SP Goswami,Chennai Super Kings,10.0,19,52.63157894736842
+SP Goswami,Delhi Capitals,92.0,86,106.9767441860465
+SP Goswami,Kolkata Knight Riders,98.0,100,98.0
+SP Goswami,Mumbai Indians,21.0,32,65.625
+SP Goswami,Punjab Kings,10.0,15,66.66666666666666
+SP Goswami,Rising Pune Supergiant,6.0,3,200.0
+SP Goswami,Royal Challengers Bangalore,1.0,2,50.0
+SP Narine,Rajasthan Royals,0.0,1,0.0
+SPD Smith,Chennai Super Kings,67.0,45,148.88888888888889
+SPD Smith,Delhi Capitals,34.0,14,242.85714285714283
+SPD Smith,Kolkata Knight Riders,14.0,16,87.5
+SPD Smith,Mumbai Indians,41.0,38,107.89473684210526
+SPD Smith,Punjab Kings,38.0,25,152.0
+SPD Smith,Rajasthan Royals,18.0,23,78.26086956521739
+SPD Smith,Royal Challengers Bangalore,16.0,14,114.28571428571428
+SPD Smith,Sunrisers Hyderabad,73.0,41,178.0487804878049
+SR Tendulkar,Chennai Super Kings,342.0,289,118.33910034602076
+SR Tendulkar,Delhi Capitals,239.0,215,111.16279069767442
+SR Tendulkar,Kochi Tuskers Kerala,100.0,71,140.8450704225352
+SR Tendulkar,Kolkata Knight Riders,247.0,191,129.3193717277487
+SR Tendulkar,Punjab Kings,261.0,232,112.5
+SR Tendulkar,Rajasthan Royals,214.0,184,116.30434782608697
+SR Tendulkar,Rising Pune Supergiant,93.0,101,92.07920792079209
+SR Tendulkar,Royal Challengers Bangalore,223.0,212,105.18867924528301
+SR Tendulkar,Sunrisers Hyderabad,230.0,209,110.04784688995215
+SR Watson,Chennai Super Kings,150.0,101,148.5148514851485
+SR Watson,Delhi Capitals,155.0,96,161.45833333333331
+SR Watson,Kochi Tuskers Kerala,69.0,53,130.18867924528303
+SR Watson,Kolkata Knight Riders,96.0,68,141.1764705882353
+SR Watson,Mumbai Indians,166.0,125,132.8
+SR Watson,Punjab Kings,158.0,104,151.9230769230769
+SR Watson,Rising Pune Supergiant,102.0,65,156.92307692307693
+SR Watson,Royal Challengers Bangalore,163.0,126,129.36507936507937
+SR Watson,Sunrisers Hyderabad,67.0,46,145.65217391304347
+SS Shaikh,Rajasthan Royals,6.0,7,85.71428571428571
+SS Tiwary,Chennai Super Kings,102.0,114,89.47368421052632
+SS Tiwary,Delhi Capitals,127.0,100,127.0
+SS Tiwary,Kochi Tuskers Kerala,26.0,25,104.0
+SS Tiwary,Kolkata Knight Riders,118.0,113,104.42477876106196
+SS Tiwary,Mumbai Indians,24.0,23,104.34782608695652
+SS Tiwary,Punjab Kings,82.0,74,110.8108108108108
+SS Tiwary,Rajasthan Royals,85.0,61,139.34426229508196
+SS Tiwary,Rising Pune Supergiant,50.0,31,161.29032258064515
+SS Tiwary,Royal Challengers Bangalore,77.0,52,148.0769230769231
+SS Tiwary,Sunrisers Hyderabad,58.0,53,109.43396226415094
+ST Jayasuriya,Chennai Super Kings,190.0,103,184.46601941747574
+ST Jayasuriya,Delhi Capitals,107.0,75,142.66666666666669
+ST Jayasuriya,Kolkata Knight Riders,124.0,73,169.86301369863014
+ST Jayasuriya,Punjab Kings,25.0,32,78.125
+ST Jayasuriya,Rajasthan Royals,96.0,99,96.96969696969697
+ST Jayasuriya,Royal Challengers Bangalore,166.0,136,122.05882352941177
+ST Jayasuriya,Sunrisers Hyderabad,60.0,55,109.09090909090908
+STR Binny,Chennai Super Kings,34.0,27,125.92592592592592
+STR Binny,Kolkata Knight Riders,8.0,5,160.0
+STR Binny,Punjab Kings,30.0,25,120.0
+STR Binny,Royal Challengers Bangalore,20.0,19,105.26315789473684
+SW Tait,Chennai Super Kings,1.0,1,100.0
+SW Tait,Delhi Capitals,11.0,12,91.66666666666666
+SW Tait,Kochi Tuskers Kerala,10.0,9,111.11111111111111
+SW Tait,Kolkata Knight Riders,0.0,1,0.0
+Salman Butt,Chennai Super Kings,73.0,56,130.35714285714286
+Salman Butt,Delhi Capitals,48.0,47,102.12765957446808
+Salman Butt,Mumbai Indians,13.0,15,86.66666666666667
+Salman Butt,Punjab Kings,24.0,20,120.0
+Salman Butt,Rajasthan Royals,31.0,30,103.33333333333334
+Salman Butt,Sunrisers Hyderabad,4.0,4,100.0
+Shahid Afridi,Chennai Super Kings,21.0,8,262.5
+Shahid Afridi,Delhi Capitals,35.0,21,166.66666666666669
+Shahid Afridi,Mumbai Indians,0.0,1,0.0
+Shahid Afridi,Punjab Kings,13.0,7,185.71428571428572
+Shahid Afridi,Rajasthan Royals,11.0,7,157.14285714285714
+Shahid Afridi,Royal Challengers Bangalore,1.0,2,50.0
+Shakib Al Hasan,Kochi Tuskers Kerala,2.0,5,40.0
+Shakib Al Hasan,Mumbai Indians,27.0,18,150.0
+Shakib Al Hasan,Punjab Kings,4.0,8,50.0
+Shakib Al Hasan,Rajasthan Royals,16.0,10,160.0
+Shakib Al Hasan,Royal Challengers Bangalore,4.0,6,66.66666666666666
+Shoaib Ahmed,Chennai Super Kings,1.0,2,50.0
+Shoaib Ahmed,Delhi Capitals,0.0,4,0.0
+Shoaib Akhtar,Mumbai Indians,2.0,8,25.0
+Shoaib Malik,Chennai Super Kings,2.0,3,66.66666666666666
+Shoaib Malik,Mumbai Indians,24.0,22,109.09090909090908
+Shoaib Malik,Punjab Kings,20.0,20,100.0
+Shoaib Malik,Royal Challengers Bangalore,6.0,4,150.0
+Sohail Tanvir,Chennai Super Kings,9.0,9,100.0
+Sohail Tanvir,Delhi Capitals,5.0,5,100.0
+Sohail Tanvir,Kolkata Knight Riders,16.0,11,145.45454545454547
+Sohail Tanvir,Mumbai Indians,6.0,6,100.0
+Sunny Singh,Chennai Super Kings,20.0,11,181.8181818181818
+Sunny Singh,Delhi Capitals,2.0,4,50.0
+Sunny Singh,Rajasthan Royals,5.0,5,100.0
+Sunny Singh,Rising Pune Supergiant,12.0,6,200.0
+Sunny Singh,Royal Challengers Bangalore,4.0,5,80.0
+T Henderson,Kolkata Knight Riders,0.0,1,0.0
+T Henderson,Royal Challengers Bangalore,11.0,15,73.33333333333333
+T Kohli,Chennai Super Kings,3.0,3,100.0
+T Kohli,Delhi Capitals,7.0,13,53.84615384615385
+T Kohli,Kolkata Knight Riders,1.0,4,25.0
+T Taibu,Delhi Capitals,7.0,9,77.77777777777779
+T Taibu,Royal Challengers Bangalore,15.0,12,125.0
+T Taibu,Sunrisers Hyderabad,9.0,5,180.0
+T Thushara,Mumbai Indians,1.0,3,33.33333333333333
+T Thushara,Punjab Kings,1.0,5,20.0
+T Thushara,Rajasthan Royals,2.0,3,66.66666666666666
+T Thushara,Sunrisers Hyderabad,8.0,8,100.0
+TD Paine,Mumbai Indians,2.0,9,22.22222222222222
+TD Paine,Royal Challengers Bangalore,8.0,20,40.0
+TL Suman,Chennai Super Kings,86.0,70,122.85714285714286
+TL Suman,Delhi Capitals,84.0,72,116.66666666666667
+TL Suman,Kolkata Knight Riders,59.0,56,105.35714285714286
+TL Suman,Mumbai Indians,46.0,47,97.87234042553192
+TL Suman,Punjab Kings,100.0,78,128.2051282051282
+TL Suman,Rajasthan Royals,94.0,82,114.6341463414634
+TL Suman,Rising Pune Supergiant,36.0,16,225.0
+TL Suman,Royal Challengers Bangalore,100.0,84,119.04761904761905
+TL Suman,Sunrisers Hyderabad,19.0,24,79.16666666666666
+TM Dilshan,Chennai Super Kings,79.0,68,116.1764705882353
+TM Dilshan,Delhi Capitals,0.0,1,0.0
+TM Dilshan,Kochi Tuskers Kerala,53.0,36,147.22222222222223
+TM Dilshan,Kolkata Knight Riders,107.0,92,116.30434782608697
+TM Dilshan,Mumbai Indians,136.0,128,106.25
+TM Dilshan,Punjab Kings,34.0,38,89.47368421052632
+TM Dilshan,Rajasthan Royals,205.0,175,117.14285714285715
+TM Dilshan,Rising Pune Supergiant,31.0,44,70.45454545454545
+TM Dilshan,Royal Challengers Bangalore,71.0,59,120.33898305084745
+TM Dilshan,Sunrisers Hyderabad,259.0,204,126.96078431372548
+TM Srivastava,Delhi Capitals,7.0,9,77.77777777777779
+TM Srivastava,Kolkata Knight Riders,1.0,1,100.0
+TM Srivastava,Royal Challengers Bangalore,0.0,1,0.0
+TR Birt,Kochi Tuskers Kerala,47.0,28,167.85714285714286
+TR Birt,Kolkata Knight Riders,8.0,11,72.72727272727273
+TR Birt,Punjab Kings,16.0,11,145.45454545454547
+TR Birt,Sunrisers Hyderabad,4.0,9,44.44444444444444
+U Kaul,Chennai Super Kings,0.0,1,0.0
+UBT Chand,Mumbai Indians,0.0,2,0.0
+UBT Chand,Rajasthan Royals,2.0,10,20.0
+UT Yadav,Kolkata Knight Riders,1.0,1,100.0
+UT Yadav,Mumbai Indians,0.0,5,0.0
+UT Yadav,Sunrisers Hyderabad,3.0,4,75.0
+Umar Gul,Punjab Kings,24.0,11,218.18181818181816
+Umar Gul,Rajasthan Royals,9.0,6,150.0
+Umar Gul,Royal Challengers Bangalore,6.0,2,300.0
+V Kohli,Chennai Super Kings,381.0,315,120.95238095238095
+V Kohli,Delhi Capitals,138.0,107,128.97196261682242
+V Kohli,Kochi Tuskers Kerala,50.0,52,96.15384615384616
+V Kohli,Kolkata Knight Riders,91.0,95,95.78947368421052
+V Kohli,Mumbai Indians,162.0,142,114.08450704225352
+V Kohli,Punjab Kings,218.0,208,104.8076923076923
+V Kohli,Rajasthan Royals,125.0,136,91.91176470588235
+V Kohli,Rising Pune Supergiant,83.0,62,133.8709677419355
+V Kohli,Sunrisers Hyderabad,264.0,189,139.68253968253967
+V Pratap Singh,Mumbai Indians,0.0,1,0.0
+V Sehwag,Chennai Super Kings,211.0,135,156.29629629629628
+V Sehwag,Kochi Tuskers Kerala,95.0,57,166.66666666666669
+V Sehwag,Kolkata Knight Riders,149.0,93,160.21505376344086
+V Sehwag,Mumbai Indians,280.0,190,147.36842105263156
+V Sehwag,Punjab Kings,189.0,107,176.6355140186916
+V Sehwag,Rajasthan Royals,284.0,177,160.45197740112997
+V Sehwag,Rising Pune Supergiant,181.0,106,170.75471698113208
+V Sehwag,Royal Challengers Bangalore,150.0,92,163.04347826086956
+V Sehwag,Sunrisers Hyderabad,317.0,183,173.224043715847
+VR Aaron,Kolkata Knight Riders,1.0,1,100.0
+VR Aaron,Punjab Kings,0.0,5,0.0
+VRV Singh,Chennai Super Kings,0.0,1,0.0
+VRV Singh,Mumbai Indians,4.0,2,200.0
+VS Malik,Mumbai Indians,6.0,5,120.0
+VS Yeligati,Punjab Kings,2.0,2,100.0
+VVS Laxman,Chennai Super Kings,16.0,23,69.56521739130434
+VVS Laxman,Delhi Capitals,2.0,6,33.33333333333333
+VVS Laxman,Kolkata Knight Riders,32.0,30,106.66666666666667
+VVS Laxman,Mumbai Indians,41.0,35,117.14285714285715
+VVS Laxman,Punjab Kings,58.0,42,138.0952380952381
+VVS Laxman,Rajasthan Royals,40.0,49,81.63265306122449
+VVS Laxman,Rising Pune Supergiant,0.0,3,0.0
+VVS Laxman,Royal Challengers Bangalore,93.0,83,112.04819277108433
+VY Mahesh,Kolkata Knight Riders,3.0,7,42.857142857142854
+VY Mahesh,Mumbai Indians,3.0,5,60.0
+VY Mahesh,Punjab Kings,6.0,5,120.0
+VY Mahesh,Rajasthan Royals,3.0,11,27.27272727272727
+W Jaffer,Chennai Super Kings,50.0,36,138.88888888888889
+W Jaffer,Delhi Capitals,10.0,9,111.11111111111111
+W Jaffer,Kolkata Knight Riders,6.0,18,33.33333333333333
+W Jaffer,Mumbai Indians,7.0,10,70.0
+W Jaffer,Punjab Kings,0.0,5,0.0
+W Jaffer,Rajasthan Royals,8.0,9,88.88888888888889
+W Jaffer,Sunrisers Hyderabad,49.0,42,116.66666666666667
+WA Mota,Chennai Super Kings,30.0,37,81.08108108108108
+WA Mota,Mumbai Indians,9.0,13,69.23076923076923
+WA Mota,Rajasthan Royals,2.0,3,66.66666666666666
+WA Mota,Sunrisers Hyderabad,15.0,23,65.21739130434783
+WD Parnell,Delhi Capitals,10.0,10,100.0
+WD Parnell,Kochi Tuskers Kerala,1.0,6,16.666666666666664
+WD Parnell,Kolkata Knight Riders,2.0,3,66.66666666666666
+WD Parnell,Mumbai Indians,22.0,28,78.57142857142857
+WD Parnell,Rajasthan Royals,2.0,2,100.0
+WD Parnell,Sunrisers Hyderabad,16.0,17,94.11764705882352
+WP Saha,Chennai Super Kings,90.0,53,169.81132075471697
+WP Saha,Delhi Capitals,26.0,25,104.0
+WP Saha,Kochi Tuskers Kerala,46.0,35,131.42857142857142
+WP Saha,Mumbai Indians,9.0,10,90.0
+WP Saha,Punjab Kings,78.0,61,127.86885245901641
+WP Saha,Rajasthan Royals,13.0,10,130.0
+WP Saha,Royal Challengers Bangalore,83.0,76,109.21052631578947
+WP Saha,Sunrisers Hyderabad,27.0,24,112.5
+WPUJC Vaas,Delhi Capitals,28.0,22,127.27272727272727
+WPUJC Vaas,Kolkata Knight Riders,9.0,10,90.0
+WPUJC Vaas,Punjab Kings,16.0,10,160.0
+WPUJC Vaas,Rajasthan Royals,28.0,28,100.0
+WPUJC Vaas,Royal Challengers Bangalore,0.0,3,0.0
+Y Gnaneswara Rao,Chennai Super Kings,19.0,18,105.55555555555556
+Y Nagar,Chennai Super Kings,1.0,2,50.0
+Y Nagar,Kochi Tuskers Kerala,40.0,55,72.72727272727273
+Y Nagar,Kolkata Knight Riders,29.0,21,138.0952380952381
+Y Nagar,Mumbai Indians,0.0,2,0.0
+Y Nagar,Punjab Kings,21.0,18,116.66666666666667
+Y Nagar,Rajasthan Royals,36.0,30,120.0
+Y Nagar,Rising Pune Supergiant,24.0,19,126.3157894736842
+Y Nagar,Royal Challengers Bangalore,36.0,40,90.0
+Y Nagar,Sunrisers Hyderabad,54.0,37,145.94594594594594
+Y Venugopal Rao,Chennai Super Kings,78.0,77,101.29870129870129
+Y Venugopal Rao,Delhi Capitals,66.0,60,110.00000000000001
+Y Venugopal Rao,Kochi Tuskers Kerala,41.0,49,83.6734693877551
+Y Venugopal Rao,Kolkata Knight Riders,111.0,84,132.14285714285714
+Y Venugopal Rao,Mumbai Indians,164.0,130,126.15384615384615
+Y Venugopal Rao,Punjab Kings,79.0,63,125.39682539682539
+Y Venugopal Rao,Rajasthan Royals,97.0,65,149.23076923076923
+Y Venugopal Rao,Rising Pune Supergiant,31.0,21,147.61904761904762
+Y Venugopal Rao,Royal Challengers Bangalore,109.0,107,101.86915887850468
+Y Venugopal Rao,Sunrisers Hyderabad,24.0,38,63.1578947368421
+YA Abdulla,Delhi Capitals,0.0,1,0.0
+YK Pathan,Chennai Super Kings,132.0,106,124.52830188679245
+YK Pathan,Delhi Capitals,162.0,120,135.0
+YK Pathan,Kochi Tuskers Kerala,25.0,16,156.25
+YK Pathan,Kolkata Knight Riders,195.0,118,165.25423728813558
+YK Pathan,Mumbai Indians,192.0,120,160.0
+YK Pathan,Punjab Kings,117.0,80,146.25
+YK Pathan,Rajasthan Royals,22.0,24,91.66666666666666
+YK Pathan,Rising Pune Supergiant,40.0,41,97.5609756097561
+YK Pathan,Royal Challengers Bangalore,181.0,139,130.2158273381295
+YK Pathan,Sunrisers Hyderabad,312.0,180,173.33333333333334
+YV Takawale,Delhi Capitals,14.0,21,66.66666666666666
+YV Takawale,Rajasthan Royals,69.0,65,106.15384615384616
+YV Takawale,Sunrisers Hyderabad,5.0,5,100.0
+Yashpal Singh,Delhi Capitals,13.0,21,61.904761904761905
+Yashpal Singh,Mumbai Indians,8.0,8,100.0
+Yashpal Singh,Rajasthan Royals,26.0,38,68.42105263157895
+Younis Khan,Punjab Kings,3.0,7,42.857142857142854
+Yuvraj Singh,Chennai Super Kings,237.0,207,114.4927536231884
+Yuvraj Singh,Delhi Capitals,188.0,146,128.76712328767124
+Yuvraj Singh,Kochi Tuskers Kerala,8.0,13,61.53846153846154
+Yuvraj Singh,Kolkata Knight Riders,177.0,136,130.14705882352942
+Yuvraj Singh,Mumbai Indians,84.0,91,92.3076923076923
+Yuvraj Singh,Punjab Kings,56.0,32,175.0
+Yuvraj Singh,Rajasthan Royals,206.0,142,145.07042253521126
+Yuvraj Singh,Royal Challengers Bangalore,167.0,106,157.54716981132074
+Yuvraj Singh,Sunrisers Hyderabad,118.0,110,107.27272727272728
+Z Khan,Chennai Super Kings,32.0,33,96.96969696969697
+Z Khan,Delhi Capitals,4.0,1,400.0
+Z Khan,Kolkata Knight Riders,16.0,17,94.11764705882352
+Z Khan,Punjab Kings,1.0,6,16.666666666666664
+Z Khan,Rajasthan Royals,18.0,26,69.23076923076923
+Z Khan,Royal Challengers Bangalore,23.0,9,255.55555555555554
+Z Khan,Sunrisers Hyderabad,4.0,9,44.44444444444444

@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="grid">
+
+    <!-- Player Analytics -->
+    <div class="card">
+        <h3>Player Analytics</h3>
+        <form action="/player">
+            <select name="name" required>
+                <option value="">Select Player</option>
+                {% for p in players %}
+                    <option value="{{ p }}">{{ p }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">View Player Stats</button>
+        </form>
+    </div>
+
+    <!-- Team Analytics -->
+    <div class="card">
+        <h3>Team Analytics</h3>
+        <form action="/team">
+            <select name="team" required>
+                <option value="">Select Team</option>
+                {% for t in teams %}
+                    <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">View Team Stats</button>
+        </form>
+    </div>
+
+    <!-- Head to Head -->
+    <div class="card">
+        <h3>Head to Head</h3>
+        <form action="/head-to-head-view">
+            <select name="team1" required>
+                <option value="">Select Team 1</option>
+                {% for t in teams %}
+                    <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="team2" required>
+                <option value="">Select Team 2</option>
+                {% for t in teams %}
+                    <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">Compare</button>
+        </form>
+    </div>
+
+    <!-- Batsman vs Team -->
+    <div class="card">
+        <h3>Batsman vs Team</h3>
+        <form action="/batsman-vs-team-view">
+            <select name="player" required>
+                <option value="">Select Batsman</option>
+                {% for p in players %}
+                    <option value="{{ p }}">{{ p }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="team" required>
+                <option value="">Against Team</option>
+                {% for t in teams %}
+                    <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">Analyze</button>
+        </form>
+    </div>
+
+    <!-- Bowler vs Team -->
+    <div class="card">
+        <h3>Bowler vs Team</h3>
+        <form action="/bowler-vs-team-view">
+            <select name="bowler" required>
+                <option value="">Select Bowler</option>
+                {% for p in players %}
+                    <option value="{{ p }}">{{ p }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="team" required>
+                <option value="">Against Team</option>
+                {% for t in teams %}
+                    <option value="{{ t }}">{{ t }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">Analyze</button>
+        </form>
+    </div>
+
+</div>
+
+{% endblock %}

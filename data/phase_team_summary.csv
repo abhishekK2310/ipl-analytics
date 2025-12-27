@@ -1,0 +1,31 @@
+batting_team,phase,avg_runs,wickets
+Chennai Super Kings,Death,1.5892255892255893,97.0
+Chennai Super Kings,Middle,1.297029702970297,110.0
+Chennai Super Kings,Powerplay,1.2294463087248322,81.0
+Delhi Capitals,Death,1.5761194029850747,86.0
+Delhi Capitals,Middle,1.1923076923076923,110.0
+Delhi Capitals,Powerplay,1.2859036676977464,106.0
+Kochi Tuskers Kerala,Death,1.2941176470588236,18.0
+Kochi Tuskers Kerala,Middle,1.1428571428571428,20.0
+Kochi Tuskers Kerala,Powerplay,1.1040462427745665,17.0
+Kolkata Knight Riders,Death,1.605476673427992,77.0
+Kolkata Knight Riders,Middle,1.1744452945677124,102.0
+Kolkata Knight Riders,Powerplay,1.0934272300469483,90.0
+Mumbai Indians,Death,1.6627272727272728,98.0
+Mumbai Indians,Middle,1.2276334776334776,116.0
+Mumbai Indians,Powerplay,1.1491228070175439,79.0
+Punjab Kings,Death,1.5165441176470589,84.0
+Punjab Kings,Middle,1.2636834319526626,117.0
+Punjab Kings,Powerplay,1.2436363636363637,87.0
+Rajasthan Royals,Death,1.4291845493562232,84.0
+Rajasthan Royals,Middle,1.3156384505021521,133.0
+Rajasthan Royals,Powerplay,1.1222123104371098,94.0
+Rising Pune Supergiant,Death,1.3269230769230769,13.0
+Rising Pune Supergiant,Middle,1.2307692307692308,22.0
+Rising Pune Supergiant,Powerplay,1.1174785100286533,16.0
+Royal Challengers Bangalore,Death,1.6204933586337762,93.0
+Royal Challengers Bangalore,Middle,1.233437391605966,147.0
+Royal Challengers Bangalore,Powerplay,1.0832975525976813,95.0
+Sunrisers Hyderabad,Death,1.4902459711620017,136.0
+Sunrisers Hyderabad,Middle,1.2309264305177112,131.0
+Sunrisers Hyderabad,Powerplay,1.201602699283003,97.0
