@@ -4,7 +4,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # =====================================================
-# LOAD ONLY CLEANED DATA (SOURCE OF TRUTH)
+# CLEANED DATA
 # =====================================================
 deliveries_df = pd.read_csv("data/deliveries_clean.csv")
 matches_df = pd.read_csv("data/matches_clean.csv")
@@ -19,12 +19,12 @@ BOWLER_WICKETS = {
     "bowled", "caught", "lbw", "stumped", "hit wicket"
 }
 
-# dropdowns ke liye (ab yahan duplicate / Bengaluru issue nahi aayega)
+# dropdowns 
 ALL_PLAYERS = sorted(deliveries_df["batter"].dropna().unique().tolist())
 ALL_TEAMS = sorted(matches_df["team1"].dropna().unique().tolist())
 
 # =====================================================
-# WEBSITE ROUTES (SERVER-SIDE, NO JS)
+# WEBSITE ROUTES (SERVER-SIDE)
 # =====================================================
 
 @app.route("/")
